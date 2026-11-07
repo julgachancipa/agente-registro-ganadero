@@ -7,6 +7,10 @@
 - [x] Datos dummy de una finca lechera (3 años) en CSV + SQLite, ver [`datos-demo.md`](datos-demo.md)
 - [ ] Recolectar 100–200 mensajes/audios reales o realistas para evals
 
+## Interfaz de consulta
+- [x] Interfaz Streamlit de solo lectura sobre los datos de demo, ver [`interfaz.md`](interfaz.md)
+- [ ] Pestaña **Chat** que simule el WhatsApp (se construye junto con el agente)
+
 ## Fase 1: Núcleo sin WhatsApp
 - [ ] Postgres + esquema + vistas de estado
 - [ ] Herramientas de escritura/lectura + validaciones

@@ -23,6 +23,7 @@ Agente conversacional (WhatsApp + voz) para llevar los **registros e inventario 
 ├── db/
 │   ├── schema.sql            # Esquema Postgres (producción)
 │   └── schema_sqlite.sql     # Esquema SQLite + vistas de estado (demo)
+├── app/                      # Interfaz Streamlit (solo lectura), ver docs/interfaz.md
 ├── data/demo/                # CSV con datos dummy de una finca lechera (3 años)
 ├── scripts/
 │   ├── generar_demo.py       # Genera los CSV (semilla fija)
@@ -43,6 +44,15 @@ WhatsApp Cloud API → webhook (FastAPI) → transcripción de voz → agente co
 ## Estado
 
 Fase 0: diseño y datos de demo. Ver [`docs/roadmap.md`](docs/roadmap.md).
+
+## Interfaz web
+
+```bash
+pip install -r requirements.txt
+streamlit run app/main.py
+```
+
+Cinco secciones: Inicio, Hato, Leche, Registros y Potreros y sanidad. Ver [`docs/interfaz.md`](docs/interfaz.md).
 
 ## Probar los datos de demo
 
