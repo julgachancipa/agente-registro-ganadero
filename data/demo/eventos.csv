@@ -1,0 +1,1292 @@
+id,finca_id,tipo,fecha,potrero_id,datos,estado,anulado_por,motivo_anulacion,mensaje_id,reportado_por,creado_en
+1,1,parto,2022-11-10,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2022-11-10T12:00:00-05:00
+2,1,parto,2022-11-14,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2022-11-14T12:00:00-05:00
+3,1,parto,2022-11-16,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2022-11-16T12:00:00-05:00
+4,1,parto,2022-11-22,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2022-11-22T12:00:00-05:00
+5,1,parto,2023-01-02,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-01-02T12:00:00-05:00
+6,1,parto,2023-01-03,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-01-03T12:00:00-05:00
+7,1,servicio,2023-02-22,,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2023-02-22T12:00:00-05:00
+8,1,servicio,2023-02-27,,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2023-02-27T12:00:00-05:00
+9,1,servicio,2023-02-28,,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2023-02-28T12:00:00-05:00
+10,1,servicio,2023-03-04,,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2023-03-04T12:00:00-05:00
+11,1,servicio,2023-03-05,,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2023-03-05T12:00:00-05:00
+12,1,servicio,2023-03-08,,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2023-03-08T12:00:00-05:00
+13,1,parto,2023-04-06,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-04-06T12:00:00-05:00
+14,1,parto,2023-04-08,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-04-08T12:00:00-05:00
+15,1,palpacion,2023-04-13,,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2023-12-07""}",confirmado,,,,2,2023-04-13T12:00:00-05:00
+16,1,palpacion,2023-04-15,,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2023-12-02""}",confirmado,,,,2,2023-04-15T12:00:00-05:00
+17,1,palpacion,2023-04-24,,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2023-12-16""}",confirmado,,,,2,2023-04-24T12:00:00-05:00
+18,1,palpacion,2023-04-24,,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2023-12-08""}",confirmado,,,,2,2023-04-24T12:00:00-05:00
+19,1,parto,2023-04-26,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-04-26T12:00:00-05:00
+20,1,parto,2023-04-29,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-04-29T12:00:00-05:00
+21,1,palpacion,2023-04-30,,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2023-12-12""}",confirmado,,,,2,2023-04-30T12:00:00-05:00
+22,1,palpacion,2023-05-02,,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2023-12-13""}",confirmado,,,,2,2023-05-02T12:00:00-05:00
+23,1,parto,2023-05-07,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-05-07T12:00:00-05:00
+24,1,parto,2023-05-11,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-05-11T12:00:00-05:00
+25,1,parto,2023-05-12,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-05-12T12:00:00-05:00
+26,1,parto,2023-05-25,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-05-25T12:00:00-05:00
+27,1,parto,2023-05-26,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-05-26T12:00:00-05:00
+28,1,parto,2023-05-27,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-05-27T12:00:00-05:00
+29,1,parto,2023-05-30,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-05-30T12:00:00-05:00
+30,1,parto,2023-06-10,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-06-10T12:00:00-05:00
+31,1,parto,2023-06-12,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-06-12T12:00:00-05:00
+32,1,parto,2023-06-15,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-06-15T12:00:00-05:00
+33,1,parto,2023-06-18,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-06-18T12:00:00-05:00
+34,1,parto,2023-06-29,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-06-29T12:00:00-05:00
+35,1,servicio,2023-07-04,,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2023-07-04T12:00:00-05:00
+36,1,parto,2023-07-06,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-07-06T12:00:00-05:00
+37,1,servicio,2023-07-10,,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2023-07-10T12:00:00-05:00
+38,1,parto,2023-07-16,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-07-16T12:00:00-05:00
+39,1,servicio,2023-07-18,,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2023-07-18T12:00:00-05:00
+40,1,parto,2023-07-21,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-07-21T12:00:00-05:00
+41,1,servicio,2023-07-31,,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2023-07-31T12:00:00-05:00
+42,1,servicio,2023-08-10,,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2023-08-10T12:00:00-05:00
+43,1,servicio,2023-08-14,,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2023-08-14T12:00:00-05:00
+44,1,servicio,2023-08-18,,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2023-08-18T12:00:00-05:00
+45,1,servicio,2023-08-23,,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2023-08-23T12:00:00-05:00
+46,1,palpacion,2023-08-27,,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2024-04-18""}",confirmado,,,,2,2023-08-27T12:00:00-05:00
+47,1,palpacion,2023-08-28,,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2024-04-12""}",confirmado,,,,2,2023-08-28T12:00:00-05:00
+48,1,parto,2023-08-30,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-08-30T12:00:00-05:00
+49,1,servicio,2023-09-03,,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2023-09-03T12:00:00-05:00
+50,1,parto,2023-09-07,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-09-07T12:00:00-05:00
+51,1,servicio,2023-09-10,,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2023-09-10T12:00:00-05:00
+52,1,palpacion,2023-09-16,,"{""resultado"":""preñada"",""meses_gestacion"":2.0,""fecha_probable_parto"":""2024-04-26""}",confirmado,,,,2,2023-09-16T12:00:00-05:00
+53,1,palpacion,2023-09-20,,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2024-05-09""}",confirmado,,,,2,2023-09-20T12:00:00-05:00
+54,1,palpacion,2023-09-25,,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2024-05-19""}",confirmado,,,,2,2023-09-25T12:00:00-05:00
+55,1,servicio,2023-09-28,,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2023-09-28T12:00:00-05:00
+56,1,servicio,2023-10-03,,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2023-10-03T12:00:00-05:00
+57,1,parto,2023-10-04,,"{""resultado"":""vivo"",""nota"":""historial previo al inicio de los datos""}",confirmado,,,,2,2023-10-04T12:00:00-05:00
+58,1,palpacion,2023-10-04,,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2024-05-27""}",confirmado,,,,2,2023-10-04T12:00:00-05:00
+59,1,palpacion,2023-10-04,,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2024-05-23""}",confirmado,,,,2,2023-10-04T12:00:00-05:00
+60,1,secado,2023-10-05,,{},confirmado,,,,2,2023-10-05T12:00:00-05:00
+61,1,secado,2023-10-05,,{},confirmado,,,,2,2023-10-05T12:00:00-05:00
+62,1,servicio,2023-10-05,,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2023-10-05T12:00:00-05:00
+63,1,servicio,2023-10-08,,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2023-10-08T12:00:00-05:00
+64,1,palpacion,2023-10-08,,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2024-06-01""}",confirmado,,,,2,2023-10-08T12:00:00-05:00
+65,1,secado,2023-10-09,,{},confirmado,,,,2,2023-10-09T12:00:00-05:00
+66,1,secado,2023-10-11,,{},confirmado,,,,2,2023-10-11T12:00:00-05:00
+67,1,servicio,2023-10-15,,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2023-10-15T12:00:00-05:00
+68,1,secado,2023-10-18,,{},confirmado,,,,2,2023-10-18T12:00:00-05:00
+69,1,secado,2023-10-20,,{},confirmado,,,,2,2023-10-20T12:00:00-05:00
+70,1,palpacion,2023-10-22,,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2024-06-12""}",confirmado,,,,2,2023-10-22T12:00:00-05:00
+71,1,palpacion,2023-11-04,,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2024-06-19""}",confirmado,,,,2,2023-11-04T12:00:00-05:00
+72,1,traslado,2023-11-07,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,2,2023-11-07T12:00:00-05:00
+73,1,traslado,2023-11-07,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,2,2023-11-07T12:00:00-05:00
+74,1,traslado,2023-11-07,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,2,2023-11-07T12:00:00-05:00
+75,1,traslado,2023-11-07,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,2,2023-11-07T12:00:00-05:00
+76,1,servicio,2023-11-07,1,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2023-11-07T12:00:00-05:00
+77,1,servicio,2023-11-07,1,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2023-11-07T12:00:00-05:00
+78,1,servicio,2023-11-07,1,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2023-11-07T12:00:00-05:00
+79,1,servicio,2023-11-07,1,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2023-11-07T12:00:00-05:00
+80,1,servicio,2023-11-07,1,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2023-11-07T12:00:00-05:00
+81,1,tratamiento,2023-11-14,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2023-11-14T12:00:00-05:00
+82,1,servicio,2023-11-14,1,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2023-11-14T12:00:00-05:00
+83,1,traslado,2023-11-15,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2023-11-15T12:00:00-05:00
+84,1,tratamiento,2023-11-15,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2023-11-15T12:00:00-05:00
+85,1,palpacion,2023-11-22,2,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2024-07-07""}",confirmado,,,,2,2023-11-22T12:00:00-05:00
+86,1,palpacion,2023-11-22,2,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2024-07-17""}",confirmado,,,,2,2023-11-22T12:00:00-05:00
+87,1,destete,2023-11-22,5,"{""peso_kg"":98.0}",confirmado,,,,2,2023-11-22T12:00:00-05:00
+88,1,traslado,2023-11-22,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2023-11-22T12:00:00-05:00
+89,1,traslado,2023-11-23,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2023-11-23T12:00:00-05:00
+90,1,palpacion,2023-11-23,3,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2024-07-12""}",confirmado,,,,2,2023-11-23T12:00:00-05:00
+91,1,pesaje,2023-11-23,5,"{""peso_kg"":342.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2023-11-23T12:00:00-05:00
+92,1,servicio,2023-11-23,5,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2023-11-23T12:00:00-05:00
+93,1,tratamiento,2023-11-24,3,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2023-11-30""}",confirmado,,,,2,2023-11-24T12:00:00-05:00
+94,1,traslado,2023-11-24,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2023-11-24T12:00:00-05:00
+95,1,traslado,2023-11-24,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2023-11-24T12:00:00-05:00
+96,1,servicio,2023-11-26,3,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2023-11-26T12:00:00-05:00
+97,1,tratamiento,2023-11-27,3,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior derecho"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2023-12-03""}",confirmado,,,,2,2023-11-27T12:00:00-05:00
+98,1,palpacion,2023-11-27,3,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2024-07-14""}",confirmado,,,,2,2023-11-27T12:00:00-05:00
+99,1,traslado,2023-11-28,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2023-11-28T12:00:00-05:00
+100,1,traslado,2023-11-30,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2023-11-30T12:00:00-05:00
+101,1,traslado,2023-12-01,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2023-12-01T12:00:00-05:00
+102,1,servicio,2023-12-01,4,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2023-12-01T12:00:00-05:00
+103,1,venta,2023-12-03,,"{""precio_cop"":2400000,""comprador"":""Frigorífico (demo)"",""motivo"":""descarte""}",confirmado,,,,1,2023-12-03T12:00:00-05:00
+104,1,parto,2023-12-04,7,"{""resultado"":""vivo"",""cria_id"":38,""cria_numero"":""300"",""cria_sexo"":""H"",""peso_kg"":36.2}",confirmado,,,,3,2023-12-04T12:00:00-05:00
+105,1,traslado,2023-12-04,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2023-12-04T12:00:00-05:00
+106,1,parto,2023-12-04,7,"{""resultado"":""vivo"",""cria_id"":39,""cria_numero"":""301"",""cria_sexo"":""H"",""peso_kg"":40.1}",confirmado,,,,3,2023-12-04T12:00:00-05:00
+107,1,traslado,2023-12-04,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2023-12-04T12:00:00-05:00
+108,1,traslado,2023-12-07,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2023-12-07T12:00:00-05:00
+109,1,traslado,2023-12-07,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2023-12-07T12:00:00-05:00
+110,1,traslado,2023-12-07,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2023-12-07T12:00:00-05:00
+111,1,pesaje,2023-12-07,5,"{""peso_kg"":356.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2023-12-07T12:00:00-05:00
+112,1,servicio,2023-12-07,5,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2023-12-07T12:00:00-05:00
+113,1,parto,2023-12-08,7,"{""resultado"":""vivo"",""cria_id"":40,""cria_numero"":""302"",""cria_sexo"":""M"",""peso_kg"":34.3}",confirmado,,,,3,2023-12-08T12:00:00-05:00
+114,1,traslado,2023-12-08,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2023-12-08T12:00:00-05:00
+115,1,traslado,2023-12-09,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2023-12-09T12:00:00-05:00
+116,1,traslado,2023-12-09,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2023-12-09T12:00:00-05:00
+117,1,parto,2023-12-10,7,"{""resultado"":""vivo"",""cria_id"":41,""cria_numero"":""303"",""cria_sexo"":""H"",""peso_kg"":40.6}",confirmado,,,,3,2023-12-10T12:00:00-05:00
+118,1,traslado,2023-12-10,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2023-12-10T12:00:00-05:00
+119,1,traslado,2023-12-11,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2023-12-11T12:00:00-05:00
+120,1,traslado,2023-12-13,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2023-12-13T12:00:00-05:00
+121,1,palpacion,2023-12-14,1,"{""resultado"":""preñada"",""meses_gestacion"":2.0,""fecha_probable_parto"":""2024-07-24""}",confirmado,,,,2,2023-12-14T12:00:00-05:00
+122,1,pesaje,2023-12-15,5,"{""peso_kg"":360.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2023-12-15T12:00:00-05:00
+123,1,servicio,2023-12-15,5,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2023-12-15T12:00:00-05:00
+124,1,servicio,2023-12-16,5,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2023-12-16T12:00:00-05:00
+125,1,traslado,2023-12-17,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2023-12-17T12:00:00-05:00
+126,1,parto,2023-12-17,7,"{""resultado"":""vivo"",""cria_id"":42,""cria_numero"":""304"",""cria_sexo"":""M"",""peso_kg"":33.2}",confirmado,,,,3,2023-12-17T12:00:00-05:00
+127,1,traslado,2023-12-17,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2023-12-17T12:00:00-05:00
+128,1,servicio,2023-12-18,2,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2023-12-18T12:00:00-05:00
+129,1,venta,2023-12-18,,"{""precio_cop"":160000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2023-12-18T12:00:00-05:00
+130,1,parto,2023-12-19,7,"{""resultado"":""vivo"",""cria_id"":43,""cria_numero"":""305"",""cria_sexo"":""M"",""peso_kg"":36.6}",confirmado,,,,3,2023-12-19T12:00:00-05:00
+131,1,traslado,2023-12-19,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2023-12-19T12:00:00-05:00
+132,1,pesaje,2023-12-19,5,"{""peso_kg"":393.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2023-12-19T12:00:00-05:00
+133,1,servicio,2023-12-19,5,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2023-12-19T12:00:00-05:00
+134,1,traslado,2023-12-20,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2023-12-20T12:00:00-05:00
+135,1,traslado,2023-12-22,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2023-12-22T12:00:00-05:00
+136,1,palpacion,2023-12-22,2,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2024-08-16""}",confirmado,,,,2,2023-12-22T12:00:00-05:00
+137,1,destete,2023-12-22,5,"{""peso_kg"":105.0}",confirmado,,,,2,2023-12-22T12:00:00-05:00
+138,1,traslado,2023-12-22,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2023-12-22T12:00:00-05:00
+139,1,venta,2023-12-22,,"{""precio_cop"":310000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2023-12-22T12:00:00-05:00
+140,1,traslado,2023-12-25,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2023-12-25T12:00:00-05:00
+141,1,tratamiento,2023-12-26,3,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""posterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2024-01-01""}",confirmado,,,,2,2023-12-26T12:00:00-05:00
+142,1,venta,2023-12-27,,"{""precio_cop"":320000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2023-12-27T12:00:00-05:00
+143,1,palpacion,2023-12-29,3,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2024-08-16""}",confirmado,,,,2,2023-12-29T12:00:00-05:00
+144,1,traslado,2024-01-02,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-01-02T12:00:00-05:00
+145,1,palpacion,2024-01-03,4,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2024-08-23""}",confirmado,,,,2,2024-01-03T12:00:00-05:00
+146,1,venta,2024-01-03,,"{""precio_cop"":570000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-01-03T12:00:00-05:00
+147,1,palpacion,2024-01-05,4,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2024-08-16""}",confirmado,,,,2,2024-01-05T12:00:00-05:00
+148,1,palpacion,2024-01-06,4,"{""resultado"":""preñada"",""meses_gestacion"":2.0,""fecha_probable_parto"":""2024-08-16""}",confirmado,,,,2,2024-01-06T12:00:00-05:00
+149,1,servicio,2024-01-06,5,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2024-01-06T12:00:00-05:00
+150,1,traslado,2024-01-10,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-01-10T12:00:00-05:00
+151,1,servicio,2024-01-10,5,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-01-10T12:00:00-05:00
+152,1,venta,2024-01-12,,"{""precio_cop"":610000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-01-12T12:00:00-05:00
+153,1,tratamiento,2024-01-14,1,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2024-01-20""}",confirmado,,,,2,2024-01-14T12:00:00-05:00
+154,1,destete,2024-01-16,5,"{""peso_kg"":100.0}",confirmado,,,,2,2024-01-16T12:00:00-05:00
+155,1,traslado,2024-01-16,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2024-01-16T12:00:00-05:00
+156,1,tratamiento,2024-01-16,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2024-01-16T12:00:00-05:00
+157,1,traslado,2024-01-18,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-01-18T12:00:00-05:00
+158,1,palpacion,2024-01-20,5,"{""resultado"":""vacía""}",confirmado,,,,2,2024-01-20T12:00:00-05:00
+159,1,tratamiento,2024-01-21,2,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2024-01-27""}",confirmado,,,,2,2024-01-21T12:00:00-05:00
+160,1,palpacion,2024-01-23,2,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2024-09-09""}",confirmado,,,,2,2024-01-23T12:00:00-05:00
+161,1,tratamiento,2024-01-23,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2024-01-23T12:00:00-05:00
+162,1,traslado,2024-01-26,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-01-26T12:00:00-05:00
+163,1,tratamiento,2024-01-29,3,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2024-02-04""}",confirmado,,,,2,2024-01-29T12:00:00-05:00
+164,1,palpacion,2024-01-30,5,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2024-09-23""}",confirmado,,,,2,2024-01-30T12:00:00-05:00
+165,1,palpacion,2024-01-30,5,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2024-09-15""}",confirmado,,,,2,2024-01-30T12:00:00-05:00
+166,1,pesaje,2024-02-01,5,"{""peso_kg"":362.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2024-02-01T12:00:00-05:00
+167,1,servicio,2024-02-01,5,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2024-02-01T12:00:00-05:00
+168,1,traslado,2024-02-03,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-02-03T12:00:00-05:00
+169,1,palpacion,2024-02-04,4,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2024-09-26""}",confirmado,,,,2,2024-02-04T12:00:00-05:00
+170,1,servicio,2024-02-08,4,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2024-02-08T12:00:00-05:00
+171,1,traslado,2024-02-11,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-02-11T12:00:00-05:00
+172,1,servicio,2024-02-12,1,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2024-02-12T12:00:00-05:00
+173,1,secado,2024-02-12,1,{},confirmado,,,,2,2024-02-12T12:00:00-05:00
+174,1,pesaje,2024-02-12,1,"{""peso_kg"":586.0}",confirmado,,,,2,2024-02-12T12:00:00-05:00
+175,1,traslado,2024-02-12,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-02-12T12:00:00-05:00
+176,1,venta,2024-02-15,,"{""precio_cop"":3600000,""comprador"":""Frigorífico (demo)"",""motivo"":""descarte""}",confirmado,,,,1,2024-02-15T12:00:00-05:00
+177,1,servicio,2024-02-15,1,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2024-02-15T12:00:00-05:00
+178,1,servicio,2024-02-16,5,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2024-02-16T12:00:00-05:00
+179,1,secado,2024-02-17,1,{},confirmado,,,,2,2024-02-17T12:00:00-05:00
+180,1,pesaje,2024-02-17,1,"{""peso_kg"":531.0}",confirmado,,,,2,2024-02-17T12:00:00-05:00
+181,1,traslado,2024-02-17,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-02-17T12:00:00-05:00
+182,1,traslado,2024-02-19,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-02-19T12:00:00-05:00
+183,1,tratamiento,2024-02-21,2,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""posterior derecho"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2024-02-27""}",confirmado,,,,2,2024-02-21T12:00:00-05:00
+184,1,traslado,2024-02-27,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-02-27T12:00:00-05:00
+185,1,servicio,2024-03-01,3,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2024-03-01T12:00:00-05:00
+186,1,secado,2024-03-01,3,{},confirmado,,,,2,2024-03-01T12:00:00-05:00
+187,1,pesaje,2024-03-01,3,"{""peso_kg"":643.0}",confirmado,,,,2,2024-03-01T12:00:00-05:00
+188,1,traslado,2024-03-01,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-03-01T12:00:00-05:00
+189,1,servicio,2024-03-01,3,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2024-03-01T12:00:00-05:00
+190,1,palpacion,2024-03-01,5,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2024-10-19""}",confirmado,,,,2,2024-03-01T12:00:00-05:00
+191,1,servicio,2024-03-03,3,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2024-03-03T12:00:00-05:00
+192,1,destete,2024-03-03,5,"{""peso_kg"":105.0}",confirmado,,,,2,2024-03-03T12:00:00-05:00
+193,1,traslado,2024-03-03,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2024-03-03T12:00:00-05:00
+194,1,tratamiento,2024-03-05,,"{""producto_id"":4,""producto"":""Desparasitante (demo)"",""via"":""oral""}",confirmado,,,,2,2024-03-05T12:00:00-05:00
+195,1,traslado,2024-03-06,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-03-06T12:00:00-05:00
+196,1,servicio,2024-03-06,4,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2024-03-06T12:00:00-05:00
+197,1,venta,2024-03-11,,"{""precio_cop"":3300000,""comprador"":""Frigorífico (demo)"",""motivo"":""descarte""}",confirmado,,,,1,2024-03-11T12:00:00-05:00
+198,1,traslado,2024-03-14,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-03-14T12:00:00-05:00
+199,1,secado,2024-03-14,1,{},confirmado,,,,2,2024-03-14T12:00:00-05:00
+200,1,pesaje,2024-03-14,1,"{""peso_kg"":395.0}",confirmado,,,,2,2024-03-14T12:00:00-05:00
+201,1,traslado,2024-03-14,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-03-14T12:00:00-05:00
+202,1,servicio,2024-03-21,1,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2024-03-21T12:00:00-05:00
+203,1,secado,2024-03-21,1,{},confirmado,,,,2,2024-03-21T12:00:00-05:00
+204,1,pesaje,2024-03-21,1,"{""peso_kg"":615.0}",confirmado,,,,2,2024-03-21T12:00:00-05:00
+205,1,traslado,2024-03-21,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-03-21T12:00:00-05:00
+206,1,traslado,2024-03-22,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-03-22T12:00:00-05:00
+207,1,palpacion,2024-03-24,2,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2024-11-17""}",confirmado,,,,2,2024-03-24T12:00:00-05:00
+208,1,secado,2024-03-25,2,{},confirmado,,,,2,2024-03-25T12:00:00-05:00
+209,1,pesaje,2024-03-25,2,"{""peso_kg"":626.0}",confirmado,,,,2,2024-03-25T12:00:00-05:00
+210,1,traslado,2024-03-25,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-03-25T12:00:00-05:00
+211,1,servicio,2024-03-27,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-03-27T12:00:00-05:00
+212,1,traslado,2024-03-30,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-03-30T12:00:00-05:00
+213,1,secado,2024-03-31,3,{},confirmado,,,,2,2024-03-31T12:00:00-05:00
+214,1,pesaje,2024-03-31,3,"{""peso_kg"":463.0}",confirmado,,,,2,2024-03-31T12:00:00-05:00
+215,1,traslado,2024-03-31,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-03-31T12:00:00-05:00
+216,1,palpacion,2024-04-01,5,"{""resultado"":""preñada"",""meses_gestacion"":2.0,""fecha_probable_parto"":""2024-11-10""}",confirmado,,,,2,2024-04-01T12:00:00-05:00
+217,1,traslado,2024-04-02,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-04-02T12:00:00-05:00
+218,1,traslado,2024-04-07,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-04-07T12:00:00-05:00
+219,1,traslado,2024-04-07,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-04-07T12:00:00-05:00
+220,1,palpacion,2024-04-07,4,"{""resultado"":""vacía""}",confirmado,,,,2,2024-04-07T12:00:00-05:00
+221,1,palpacion,2024-04-09,5,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2024-11-25""}",confirmado,,,,2,2024-04-09T12:00:00-05:00
+222,1,parto,2024-04-12,7,"{""resultado"":""vivo"",""cria_id"":44,""cria_numero"":""306"",""cria_sexo"":""H"",""peso_kg"":35.3}",confirmado,,,,3,2024-04-12T12:00:00-05:00
+223,1,traslado,2024-04-12,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-04-12T12:00:00-05:00
+224,1,secado,2024-04-13,4,{},confirmado,,,,2,2024-04-13T12:00:00-05:00
+225,1,pesaje,2024-04-13,4,"{""peso_kg"":630.0}",confirmado,,,,2,2024-04-13T12:00:00-05:00
+226,1,traslado,2024-04-13,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-04-13T12:00:00-05:00
+227,1,traslado,2024-04-15,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-04-15T12:00:00-05:00
+228,1,traslado,2024-04-15,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-04-15T12:00:00-05:00
+229,1,parto,2024-04-17,7,"{""resultado"":""vivo"",""cria_id"":45,""cria_numero"":""307"",""cria_sexo"":""H"",""peso_kg"":33.6}",confirmado,,,,3,2024-04-17T12:00:00-05:00
+230,1,traslado,2024-04-17,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-04-17T12:00:00-05:00
+231,1,secado,2024-04-19,1,{},confirmado,,,,2,2024-04-19T12:00:00-05:00
+232,1,pesaje,2024-04-19,1,"{""peso_kg"":579.0}",confirmado,,,,2,2024-04-19T12:00:00-05:00
+233,1,traslado,2024-04-19,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-04-19T12:00:00-05:00
+234,1,servicio,2024-04-19,1,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2024-04-19T12:00:00-05:00
+235,1,traslado,2024-04-20,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-04-20T12:00:00-05:00
+236,1,traslado,2024-04-20,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-04-20T12:00:00-05:00
+237,1,tratamiento,2024-04-20,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2024-04-20T12:00:00-05:00
+238,1,traslado,2024-04-23,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-04-23T12:00:00-05:00
+239,1,tratamiento,2024-04-24,2,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior derecho"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2024-04-30""}",confirmado,,,,2,2024-04-24T12:00:00-05:00
+240,1,palpacion,2024-04-26,2,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2024-12-09""}",confirmado,,,,2,2024-04-26T12:00:00-05:00
+241,1,parto,2024-04-30,7,"{""resultado"":""vivo"",""cria_id"":46,""cria_numero"":""308"",""cria_sexo"":""M"",""peso_kg"":37.3}",confirmado,,,,3,2024-04-30T12:00:00-05:00
+242,1,traslado,2024-04-30,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-04-30T12:00:00-05:00
+243,1,traslado,2024-05-01,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-05-01T12:00:00-05:00
+244,1,venta,2024-05-01,,"{""precio_cop"":2200000,""comprador"":""Frigorífico (demo)"",""motivo"":""descarte""}",confirmado,,,,1,2024-05-01T12:00:00-05:00
+245,1,palpacion,2024-05-02,3,"{""resultado"":""preñada"",""meses_gestacion"":2.0,""fecha_probable_parto"":""2024-12-11""}",confirmado,,,,2,2024-05-02T12:00:00-05:00
+246,1,traslado,2024-05-03,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-05-03T12:00:00-05:00
+247,1,traslado,2024-05-03,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-05-03T12:00:00-05:00
+248,1,secado,2024-05-04,3,{},confirmado,,,,2,2024-05-04T12:00:00-05:00
+249,1,pesaje,2024-05-04,3,"{""peso_kg"":611.0}",confirmado,,,,2,2024-05-04T12:00:00-05:00
+250,1,traslado,2024-05-04,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-05-04T12:00:00-05:00
+251,1,venta,2024-05-04,,"{""precio_cop"":690000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-05-04T12:00:00-05:00
+252,1,venta,2024-05-07,,"{""precio_cop"":180000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-05-07T12:00:00-05:00
+253,1,traslado,2024-05-09,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-05-09T12:00:00-05:00
+254,1,traslado,2024-05-10,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-05-10T12:00:00-05:00
+255,1,servicio,2024-05-10,4,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-05-10T12:00:00-05:00
+256,1,parto,2024-05-13,7,"{""resultado"":""vivo"",""cria_id"":47,""cria_numero"":""309"",""cria_sexo"":""H"",""peso_kg"":33.5}",confirmado,,,,3,2024-05-13T12:00:00-05:00
+257,1,traslado,2024-05-13,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-05-13T12:00:00-05:00
+258,1,secado,2024-05-13,4,{},confirmado,,,,2,2024-05-13T12:00:00-05:00
+259,1,pesaje,2024-05-13,4,"{""peso_kg"":573.0}",confirmado,,,,2,2024-05-13T12:00:00-05:00
+260,1,traslado,2024-05-13,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-05-13T12:00:00-05:00
+261,1,tratamiento,2024-05-14,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2024-05-14T12:00:00-05:00
+262,1,traslado,2024-05-14,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-05-14T12:00:00-05:00
+263,1,tratamiento,2024-05-15,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2024-05-15T12:00:00-05:00
+264,1,palpacion,2024-05-16,4,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2024-12-29""}",confirmado,,,,2,2024-05-16T12:00:00-05:00
+265,1,traslado,2024-05-16,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-05-16T12:00:00-05:00
+266,1,traslado,2024-05-17,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-05-17T12:00:00-05:00
+267,1,traslado,2024-05-20,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-05-20T12:00:00-05:00
+268,1,parto,2024-05-20,7,"{""resultado"":""vivo"",""cria_id"":48,""cria_numero"":""310"",""cria_sexo"":""M"",""peso_kg"":34.7}",confirmado,,,,3,2024-05-20T12:00:00-05:00
+269,1,traslado,2024-05-20,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-05-20T12:00:00-05:00
+270,1,secado,2024-05-21,1,{},confirmado,,,,2,2024-05-21T12:00:00-05:00
+271,1,pesaje,2024-05-21,1,"{""peso_kg"":600.0}",confirmado,,,,2,2024-05-21T12:00:00-05:00
+272,1,traslado,2024-05-21,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-05-21T12:00:00-05:00
+273,1,traslado,2024-05-23,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-05-23T12:00:00-05:00
+274,1,secado,2024-05-24,1,{},confirmado,,,,2,2024-05-24T12:00:00-05:00
+275,1,pesaje,2024-05-24,1,"{""peso_kg"":624.0}",confirmado,,,,2,2024-05-24T12:00:00-05:00
+276,1,traslado,2024-05-24,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-05-24T12:00:00-05:00
+277,1,parto,2024-05-24,7,"{""resultado"":""vivo"",""cria_id"":49,""cria_numero"":""311"",""cria_sexo"":""H"",""peso_kg"":39.0}",confirmado,,,,3,2024-05-24T12:00:00-05:00
+278,1,traslado,2024-05-24,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-05-24T12:00:00-05:00
+279,1,traslado,2024-05-25,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-05-25T12:00:00-05:00
+280,1,venta,2024-05-25,,"{""precio_cop"":630000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-05-25T12:00:00-05:00
+281,1,tratamiento,2024-05-26,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2024-05-26T12:00:00-05:00
+282,1,venta,2024-05-26,,"{""precio_cop"":170000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-05-26T12:00:00-05:00
+283,1,traslado,2024-05-27,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-05-27T12:00:00-05:00
+284,1,tratamiento,2024-05-29,2,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior derecho"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2024-06-04""}",confirmado,,,,2,2024-05-29T12:00:00-05:00
+285,1,parto,2024-05-30,7,"{""resultado"":""vivo"",""cria_id"":50,""cria_numero"":""312"",""cria_sexo"":""H"",""peso_kg"":30.9}",confirmado,,,,3,2024-05-30T12:00:00-05:00
+286,1,traslado,2024-05-30,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-05-30T12:00:00-05:00
+287,1,servicio,2024-06-01,2,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2024-06-01T12:00:00-05:00
+288,1,traslado,2024-06-02,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-06-02T12:00:00-05:00
+289,1,traslado,2024-06-02,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-06-02T12:00:00-05:00
+290,1,traslado,2024-06-02,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-06-02T12:00:00-05:00
+291,1,traslado,2024-06-08,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-06-08T12:00:00-05:00
+292,1,traslado,2024-06-10,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-06-10T12:00:00-05:00
+293,1,servicio,2024-06-11,4,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2024-06-11T12:00:00-05:00
+294,1,parto,2024-06-12,7,"{""resultado"":""vivo"",""cria_id"":51,""cria_numero"":""313"",""cria_sexo"":""M"",""peso_kg"":33.3}",confirmado,,,,3,2024-06-12T12:00:00-05:00
+295,1,traslado,2024-06-12,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-06-12T12:00:00-05:00
+296,1,secado,2024-06-13,4,{},confirmado,,,,2,2024-06-13T12:00:00-05:00
+297,1,pesaje,2024-06-13,4,"{""peso_kg"":582.0}",confirmado,,,,2,2024-06-13T12:00:00-05:00
+298,1,traslado,2024-06-13,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-06-13T12:00:00-05:00
+299,1,secado,2024-06-14,4,{},confirmado,,,,2,2024-06-14T12:00:00-05:00
+300,1,pesaje,2024-06-14,4,"{""peso_kg"":449.0}",confirmado,,,,2,2024-06-14T12:00:00-05:00
+301,1,traslado,2024-06-14,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-06-14T12:00:00-05:00
+302,1,secado,2024-06-14,4,{},confirmado,,,,2,2024-06-14T12:00:00-05:00
+303,1,pesaje,2024-06-14,4,"{""peso_kg"":371.0}",confirmado,,,,2,2024-06-14T12:00:00-05:00
+304,1,traslado,2024-06-14,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-06-14T12:00:00-05:00
+305,1,traslado,2024-06-15,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-06-15T12:00:00-05:00
+306,1,traslado,2024-06-18,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-06-18T12:00:00-05:00
+307,1,parto,2024-06-18,7,"{""resultado"":""vivo"",""cria_id"":52,""cria_numero"":""314"",""cria_sexo"":""M"",""peso_kg"":36.0}",confirmado,,,,3,2024-06-18T12:00:00-05:00
+308,1,traslado,2024-06-18,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-06-18T12:00:00-05:00
+309,1,venta,2024-06-20,,"{""precio_cop"":210000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-06-20T12:00:00-05:00
+310,1,secado,2024-06-21,1,{},confirmado,,,,2,2024-06-21T12:00:00-05:00
+311,1,pesaje,2024-06-21,1,"{""peso_kg"":620.0}",confirmado,,,,2,2024-06-21T12:00:00-05:00
+312,1,traslado,2024-06-21,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-06-21T12:00:00-05:00
+313,1,traslado,2024-06-21,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-06-21T12:00:00-05:00
+314,1,traslado,2024-06-23,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-06-23T12:00:00-05:00
+315,1,venta,2024-06-23,,"{""precio_cop"":280000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-06-23T12:00:00-05:00
+316,1,venta,2024-06-25,,"{""precio_cop"":640000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-06-25T12:00:00-05:00
+317,1,traslado,2024-06-26,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-06-26T12:00:00-05:00
+318,1,secado,2024-06-26,2,{},confirmado,,,,2,2024-06-26T12:00:00-05:00
+319,1,pesaje,2024-06-26,2,"{""peso_kg"":587.0}",confirmado,,,,2,2024-06-26T12:00:00-05:00
+320,1,traslado,2024-06-26,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-06-26T12:00:00-05:00
+321,1,traslado,2024-07-02,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-07-02T12:00:00-05:00
+322,1,parto,2024-07-03,7,"{""resultado"":""vivo"",""cria_id"":53,""cria_numero"":""315"",""cria_sexo"":""M"",""peso_kg"":38.8}",confirmado,,,,3,2024-07-03T12:00:00-05:00
+323,1,traslado,2024-07-03,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-07-03T12:00:00-05:00
+324,1,traslado,2024-07-04,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-07-04T12:00:00-05:00
+325,1,traslado,2024-07-06,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-07-06T12:00:00-05:00
+326,1,traslado,2024-07-10,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-07-10T12:00:00-05:00
+327,1,traslado,2024-07-12,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-07-12T12:00:00-05:00
+328,1,secado,2024-07-12,4,{},confirmado,,,,2,2024-07-12T12:00:00-05:00
+329,1,pesaje,2024-07-12,4,"{""peso_kg"":633.0}",confirmado,,,,2,2024-07-12T12:00:00-05:00
+330,1,traslado,2024-07-12,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-07-12T12:00:00-05:00
+331,1,parto,2024-07-12,7,"{""resultado"":""vivo"",""cria_id"":54,""cria_numero"":""316"",""cria_sexo"":""H"",""peso_kg"":35.8}",confirmado,,,,3,2024-07-12T12:00:00-05:00
+332,1,traslado,2024-07-12,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-07-12T12:00:00-05:00
+333,1,venta,2024-07-12,,"{""precio_cop"":250000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-07-12T12:00:00-05:00
+334,1,traslado,2024-07-13,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-07-13T12:00:00-05:00
+335,1,traslado,2024-07-15,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-07-15T12:00:00-05:00
+336,1,traslado,2024-07-20,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-07-20T12:00:00-05:00
+337,1,parto,2024-07-20,7,"{""resultado"":""muerto""}",confirmado,,,,3,2024-07-20T12:00:00-05:00
+338,1,parto,2024-07-23,7,"{""resultado"":""vivo"",""cria_id"":55,""cria_numero"":""317"",""cria_sexo"":""H"",""peso_kg"":32.9}",confirmado,,,,3,2024-07-23T12:00:00-05:00
+339,1,traslado,2024-07-23,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-07-23T12:00:00-05:00
+340,1,servicio,2024-07-23,1,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2024-07-23T12:00:00-05:00
+341,1,traslado,2024-07-23,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-07-23T12:00:00-05:00
+342,1,servicio,2024-07-23,1,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2024-07-23T12:00:00-05:00
+343,1,palpacion,2024-07-23,1,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2025-03-11""}",confirmado,,,,2,2024-07-23T12:00:00-05:00
+344,1,secado,2024-07-25,1,{},confirmado,,,,2,2024-07-25T12:00:00-05:00
+345,1,pesaje,2024-07-25,1,"{""peso_kg"":447.0}",confirmado,,,,2,2024-07-25T12:00:00-05:00
+346,1,traslado,2024-07-25,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-07-25T12:00:00-05:00
+347,1,traslado,2024-07-26,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-07-26T12:00:00-05:00
+348,1,traslado,2024-07-28,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-07-28T12:00:00-05:00
+349,1,servicio,2024-07-29,2,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2024-07-29T12:00:00-05:00
+350,1,palpacion,2024-07-31,2,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2025-03-21""}",confirmado,,,,2,2024-07-31T12:00:00-05:00
+351,1,traslado,2024-08-02,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-08-02T12:00:00-05:00
+352,1,traslado,2024-08-03,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-08-03T12:00:00-05:00
+353,1,traslado,2024-08-03,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-08-03T12:00:00-05:00
+354,1,traslado,2024-08-05,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-08-05T12:00:00-05:00
+355,1,servicio,2024-08-05,3,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-08-05T12:00:00-05:00
+356,1,servicio,2024-08-05,3,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2024-08-05T12:00:00-05:00
+357,1,traslado,2024-08-10,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-08-10T12:00:00-05:00
+358,1,destete,2024-08-11,5,"{""peso_kg"":95.0}",confirmado,,,,2,2024-08-11T12:00:00-05:00
+359,1,traslado,2024-08-11,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2024-08-11T12:00:00-05:00
+360,1,parto,2024-08-12,7,"{""resultado"":""vivo"",""cria_id"":56,""cria_numero"":""318"",""cria_sexo"":""M"",""peso_kg"":36.2}",confirmado,,,,3,2024-08-12T12:00:00-05:00
+361,1,traslado,2024-08-12,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-08-12T12:00:00-05:00
+362,1,traslado,2024-08-13,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-08-13T12:00:00-05:00
+363,1,parto,2024-08-13,7,"{""resultado"":""vivo"",""cria_id"":57,""cria_numero"":""319"",""cria_sexo"":""H"",""peso_kg"":36.1}",confirmado,,,,3,2024-08-13T12:00:00-05:00
+364,1,traslado,2024-08-13,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-08-13T12:00:00-05:00
+365,1,parto,2024-08-13,7,"{""resultado"":""vivo"",""cria_id"":58,""cria_numero"":""320"",""cria_sexo"":""M"",""peso_kg"":33.5}",confirmado,,,,3,2024-08-13T12:00:00-05:00
+366,1,traslado,2024-08-13,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-08-13T12:00:00-05:00
+367,1,servicio,2024-08-14,4,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2024-08-14T12:00:00-05:00
+368,1,venta,2024-08-14,,"{""precio_cop"":520000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-08-14T12:00:00-05:00
+369,1,traslado,2024-08-15,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-08-15T12:00:00-05:00
+370,1,traslado,2024-08-15,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-08-15T12:00:00-05:00
+371,1,traslado,2024-08-16,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-08-16T12:00:00-05:00
+372,1,traslado,2024-08-16,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-08-16T12:00:00-05:00
+373,1,venta,2024-08-18,,"{""precio_cop"":750000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-08-18T12:00:00-05:00
+374,1,venta,2024-08-19,,"{""precio_cop"":300000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-08-19T12:00:00-05:00
+375,1,parto,2024-08-20,7,"{""resultado"":""vivo"",""cria_id"":59,""cria_numero"":""321"",""cria_sexo"":""H"",""peso_kg"":38.2}",confirmado,,,,3,2024-08-20T12:00:00-05:00
+376,1,traslado,2024-08-20,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-08-20T12:00:00-05:00
+377,1,venta,2024-08-20,,"{""precio_cop"":260000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-08-20T12:00:00-05:00
+378,1,traslado,2024-08-21,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-08-21T12:00:00-05:00
+379,1,destete,2024-08-22,5,"{""peso_kg"":95.0}",confirmado,,,,2,2024-08-22T12:00:00-05:00
+380,1,traslado,2024-08-22,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2024-08-22T12:00:00-05:00
+381,1,traslado,2024-08-23,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-08-23T12:00:00-05:00
+382,1,parto,2024-08-25,7,"{""resultado"":""vivo"",""cria_id"":60,""cria_numero"":""322"",""cria_sexo"":""H"",""peso_kg"":36.4}",confirmado,,,,3,2024-08-25T12:00:00-05:00
+383,1,traslado,2024-08-25,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-08-25T12:00:00-05:00
+384,1,traslado,2024-08-28,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-08-28T12:00:00-05:00
+385,1,traslado,2024-08-29,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-08-29T12:00:00-05:00
+386,1,traslado,2024-08-31,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-08-31T12:00:00-05:00
+387,1,servicio,2024-09-04,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-09-04T12:00:00-05:00
+388,1,venta,2024-09-04,,"{""precio_cop"":580000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-09-04T12:00:00-05:00
+389,1,traslado,2024-09-06,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-09-06T12:00:00-05:00
+390,1,servicio,2024-09-06,3,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-09-06T12:00:00-05:00
+391,1,traslado,2024-09-07,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-09-07T12:00:00-05:00
+392,1,tratamiento,2024-09-10,,"{""producto_id"":4,""producto"":""Desparasitante (demo)"",""via"":""oral""}",confirmado,,,,2,2024-09-10T12:00:00-05:00
+393,1,compra,2024-09-10,,"{""precio_cop"":5800000,""proveedor"":""Finca vecina (ficticia)""}",confirmado,,,,1,2024-09-10T12:00:00-05:00
+394,1,traslado,2024-09-10,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2024-09-10T12:00:00-05:00
+395,1,palpacion,2024-09-10,5,"{""resultado"":""preñada"",""meses_gestacion"":6.0,""fecha_probable_parto"":""2024-12-19"",""nota"":""al momento de la compra""}",confirmado,,,,2,2024-09-10T12:00:00-05:00
+396,1,parto,2024-09-10,7,"{""resultado"":""vivo"",""cria_id"":62,""cria_numero"":""323"",""cria_sexo"":""H"",""peso_kg"":36.1}",confirmado,,,,3,2024-09-10T12:00:00-05:00
+397,1,traslado,2024-09-10,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-09-10T12:00:00-05:00
+398,1,servicio,2024-09-10,3,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2024-09-10T12:00:00-05:00
+399,1,traslado,2024-09-13,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-09-13T12:00:00-05:00
+400,1,traslado,2024-09-13,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-09-13T12:00:00-05:00
+401,1,traslado,2024-09-14,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-09-14T12:00:00-05:00
+402,1,servicio,2024-09-15,4,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2024-09-15T12:00:00-05:00
+403,1,secado,2024-09-15,4,{},confirmado,,,,2,2024-09-15T12:00:00-05:00
+404,1,pesaje,2024-09-15,4,"{""peso_kg"":545.0}",confirmado,,,,2,2024-09-15T12:00:00-05:00
+405,1,traslado,2024-09-15,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-09-15T12:00:00-05:00
+406,1,palpacion,2024-09-15,4,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2025-05-02""}",confirmado,,,,2,2024-09-15T12:00:00-05:00
+407,1,palpacion,2024-09-15,4,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2025-05-02""}",confirmado,,,,2,2024-09-15T12:00:00-05:00
+408,1,traslado,2024-09-17,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-09-17T12:00:00-05:00
+409,1,parto,2024-09-17,7,"{""resultado"":""vivo"",""cria_id"":63,""cria_numero"":""324"",""cria_sexo"":""M"",""peso_kg"":35.7}",confirmado,,,,3,2024-09-17T12:00:00-05:00
+410,1,traslado,2024-09-17,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-09-17T12:00:00-05:00
+411,1,tratamiento,2024-09-18,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2024-09-18T12:00:00-05:00
+412,1,palpacion,2024-09-19,4,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2025-05-15""}",confirmado,,,,2,2024-09-19T12:00:00-05:00
+413,1,palpacion,2024-09-20,4,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2025-05-08""}",confirmado,,,,2,2024-09-20T12:00:00-05:00
+414,1,traslado,2024-09-20,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-09-20T12:00:00-05:00
+415,1,traslado,2024-09-22,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-09-22T12:00:00-05:00
+416,1,parto,2024-09-23,7,"{""resultado"":""vivo"",""cria_id"":64,""cria_numero"":""325"",""cria_sexo"":""M"",""peso_kg"":38.8}",confirmado,,,,3,2024-09-23T12:00:00-05:00
+417,1,traslado,2024-09-23,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-09-23T12:00:00-05:00
+418,1,venta,2024-09-24,,"{""precio_cop"":290000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-09-24T12:00:00-05:00
+419,1,traslado,2024-09-26,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-09-26T12:00:00-05:00
+420,1,venta,2024-09-26,,"{""precio_cop"":500000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-09-26T12:00:00-05:00
+421,1,servicio,2024-09-27,1,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-09-27T12:00:00-05:00
+422,1,parto,2024-09-27,7,"{""resultado"":""vivo"",""cria_id"":65,""cria_numero"":""326"",""cria_sexo"":""H"",""peso_kg"":36.1}",confirmado,,,,3,2024-09-27T12:00:00-05:00
+423,1,traslado,2024-09-27,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-09-27T12:00:00-05:00
+424,1,traslado,2024-09-30,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-09-30T12:00:00-05:00
+425,1,traslado,2024-09-30,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-09-30T12:00:00-05:00
+426,1,servicio,2024-10-01,2,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2024-10-01T12:00:00-05:00
+427,1,venta,2024-10-02,,"{""precio_cop"":200000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-10-02T12:00:00-05:00
+428,1,palpacion,2024-10-03,2,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2025-05-15""}",confirmado,,,,2,2024-10-03T12:00:00-05:00
+429,1,servicio,2024-10-06,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-10-06T12:00:00-05:00
+430,1,servicio,2024-10-06,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-10-06T12:00:00-05:00
+431,1,traslado,2024-10-08,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-10-08T12:00:00-05:00
+432,1,secado,2024-10-09,3,{},confirmado,,,,2,2024-10-09T12:00:00-05:00
+433,1,pesaje,2024-10-09,3,"{""peso_kg"":519.0}",confirmado,,,,2,2024-10-09T12:00:00-05:00
+434,1,traslado,2024-10-09,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-10-09T12:00:00-05:00
+435,1,secado,2024-10-10,3,{},confirmado,,,,2,2024-10-10T12:00:00-05:00
+436,1,pesaje,2024-10-10,3,"{""peso_kg"":558.0}",confirmado,,,,2,2024-10-10T12:00:00-05:00
+437,1,traslado,2024-10-10,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-10-10T12:00:00-05:00
+438,1,traslado,2024-10-10,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-10-10T12:00:00-05:00
+439,1,tratamiento,2024-10-13,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2024-10-13T12:00:00-05:00
+440,1,traslado,2024-10-16,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-10-16T12:00:00-05:00
+441,1,servicio,2024-10-20,4,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2024-10-20T12:00:00-05:00
+442,1,parto,2024-10-20,7,"{""resultado"":""vivo"",""cria_id"":66,""cria_numero"":""327"",""cria_sexo"":""M"",""peso_kg"":35.4}",confirmado,,,,3,2024-10-20T12:00:00-05:00
+443,1,traslado,2024-10-20,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-10-20T12:00:00-05:00
+444,1,traslado,2024-10-23,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-10-23T12:00:00-05:00
+445,1,traslado,2024-10-24,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-10-24T12:00:00-05:00
+446,1,servicio,2024-10-25,1,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2024-10-25T12:00:00-05:00
+447,1,servicio,2024-10-25,1,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2024-10-25T12:00:00-05:00
+448,1,palpacion,2024-10-25,1,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2025-06-16""}",confirmado,,,,2,2024-10-25T12:00:00-05:00
+449,1,servicio,2024-10-26,1,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-10-26T12:00:00-05:00
+450,1,palpacion,2024-10-26,1,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2025-06-20""}",confirmado,,,,2,2024-10-26T12:00:00-05:00
+451,1,servicio,2024-10-28,1,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2024-10-28T12:00:00-05:00
+452,1,traslado,2024-10-28,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-10-28T12:00:00-05:00
+453,1,venta,2024-10-28,,"{""precio_cop"":190000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-10-28T12:00:00-05:00
+454,1,secado,2024-10-30,1,{},confirmado,,,,2,2024-10-30T12:00:00-05:00
+455,1,pesaje,2024-10-30,1,"{""peso_kg"":579.0}",confirmado,,,,2,2024-10-30T12:00:00-05:00
+456,1,traslado,2024-10-30,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2024-10-30T12:00:00-05:00
+457,1,traslado,2024-11-01,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-11-01T12:00:00-05:00
+458,1,traslado,2024-11-04,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-11-04T12:00:00-05:00
+459,1,servicio,2024-11-06,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-11-06T12:00:00-05:00
+460,1,parto,2024-11-07,7,"{""resultado"":""vivo"",""cria_id"":67,""cria_numero"":""328"",""cria_sexo"":""H"",""peso_kg"":35.9}",confirmado,,,,3,2024-11-07T12:00:00-05:00
+461,1,traslado,2024-11-07,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-11-07T12:00:00-05:00
+462,1,servicio,2024-11-08,2,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2024-11-08T12:00:00-05:00
+463,1,traslado,2024-11-09,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-11-09T12:00:00-05:00
+464,1,palpacion,2024-11-09,3,"{""resultado"":""vacía""}",confirmado,,,,2,2024-11-09T12:00:00-05:00
+465,1,traslado,2024-11-10,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-11-10T12:00:00-05:00
+466,1,tratamiento,2024-11-12,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2024-11-12T12:00:00-05:00
+467,1,servicio,2024-11-12,3,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2024-11-12T12:00:00-05:00
+468,1,tratamiento,2024-11-13,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2024-11-13T12:00:00-05:00
+469,1,parto,2024-11-14,7,"{""resultado"":""vivo"",""cria_id"":68,""cria_numero"":""329"",""cria_sexo"":""M"",""peso_kg"":38.6}",confirmado,,,,3,2024-11-14T12:00:00-05:00
+470,1,traslado,2024-11-14,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-11-14T12:00:00-05:00
+471,1,servicio,2024-11-15,3,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2024-11-15T12:00:00-05:00
+472,1,servicio,2024-11-15,3,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2024-11-15T12:00:00-05:00
+473,1,servicio,2024-11-16,3,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2024-11-16T12:00:00-05:00
+474,1,servicio,2024-11-16,3,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2024-11-16T12:00:00-05:00
+475,1,traslado,2024-11-17,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-11-17T12:00:00-05:00
+476,1,servicio,2024-11-17,4,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2024-11-17T12:00:00-05:00
+477,1,traslado,2024-11-17,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-11-17T12:00:00-05:00
+478,1,destete,2024-11-18,5,"{""peso_kg"":85.0}",confirmado,,,,2,2024-11-18T12:00:00-05:00
+479,1,traslado,2024-11-18,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2024-11-18T12:00:00-05:00
+480,1,traslado,2024-11-20,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-11-20T12:00:00-05:00
+481,1,venta,2024-11-21,,"{""precio_cop"":320000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-11-21T12:00:00-05:00
+482,1,traslado,2024-11-25,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-11-25T12:00:00-05:00
+483,1,palpacion,2024-11-25,1,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2025-07-07""}",confirmado,,,,2,2024-11-25T12:00:00-05:00
+484,1,traslado,2024-11-28,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-11-28T12:00:00-05:00
+485,1,servicio,2024-11-28,1,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2024-11-28T12:00:00-05:00
+486,1,traslado,2024-11-29,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-11-29T12:00:00-05:00
+487,1,parto,2024-11-30,7,"{""resultado"":""vivo"",""cria_id"":69,""cria_numero"":""330"",""cria_sexo"":""M"",""peso_kg"":39.5}",confirmado,,,,3,2024-11-30T12:00:00-05:00
+488,1,traslado,2024-11-30,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-11-30T12:00:00-05:00
+489,1,servicio,2024-12-01,1,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-12-01T12:00:00-05:00
+490,1,traslado,2024-12-03,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2024-12-03T12:00:00-05:00
+491,1,venta,2024-12-03,,"{""precio_cop"":2300000,""comprador"":""Frigorífico (demo)"",""motivo"":""descarte""}",confirmado,,,,1,2024-12-03T12:00:00-05:00
+492,1,servicio,2024-12-04,2,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2024-12-04T12:00:00-05:00
+493,1,servicio,2024-12-05,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-12-05T12:00:00-05:00
+494,1,tratamiento,2024-12-07,2,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2024-12-13""}",confirmado,,,,2,2024-12-07T12:00:00-05:00
+495,1,venta,2024-12-07,,"{""precio_cop"":350000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-12-07T12:00:00-05:00
+496,1,parto,2024-12-08,7,"{""resultado"":""vivo"",""cria_id"":70,""cria_numero"":""331"",""cria_sexo"":""M"",""peso_kg"":37.7}",confirmado,,,,3,2024-12-08T12:00:00-05:00
+497,1,traslado,2024-12-08,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-12-08T12:00:00-05:00
+498,1,parto,2024-12-09,7,"{""resultado"":""vivo"",""cria_id"":71,""cria_numero"":""332"",""cria_sexo"":""H"",""peso_kg"":36.8}",confirmado,,,,3,2024-12-09T12:00:00-05:00
+499,1,traslado,2024-12-09,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-12-09T12:00:00-05:00
+500,1,traslado,2024-12-09,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-12-09T12:00:00-05:00
+501,1,destete,2024-12-09,5,"{""peso_kg"":105.0}",confirmado,,,,2,2024-12-09T12:00:00-05:00
+502,1,traslado,2024-12-09,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2024-12-09T12:00:00-05:00
+503,1,servicio,2024-12-10,2,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2024-12-10T12:00:00-05:00
+504,1,traslado,2024-12-11,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-12-11T12:00:00-05:00
+505,1,traslado,2024-12-11,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-12-11T12:00:00-05:00
+506,1,traslado,2024-12-12,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2024-12-12T12:00:00-05:00
+507,1,servicio,2024-12-12,3,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2024-12-12T12:00:00-05:00
+508,1,palpacion,2024-12-14,3,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2025-07-30""}",confirmado,,,,2,2024-12-14T12:00:00-05:00
+509,1,muerte,2024-12-16,8,"{""causa"":""desconocida""}",confirmado,,,,2,2024-12-16T12:00:00-05:00
+510,1,palpacion,2024-12-18,3,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2025-08-04""}",confirmado,,,,2,2024-12-18T12:00:00-05:00
+511,1,venta,2024-12-18,,"{""precio_cop"":240000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-12-18T12:00:00-05:00
+512,1,traslado,2024-12-19,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-12-19T12:00:00-05:00
+513,1,traslado,2024-12-19,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2024-12-19T12:00:00-05:00
+514,1,servicio,2024-12-19,4,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2024-12-19T12:00:00-05:00
+515,1,parto,2024-12-19,7,"{""resultado"":""vivo"",""cria_id"":72,""cria_numero"":""333"",""cria_sexo"":""M"",""peso_kg"":36.0}",confirmado,,,,3,2024-12-19T12:00:00-05:00
+516,1,traslado,2024-12-19,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-12-19T12:00:00-05:00
+517,1,servicio,2024-12-21,4,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-12-21T12:00:00-05:00
+518,1,traslado,2024-12-22,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2024-12-22T12:00:00-05:00
+519,1,venta,2024-12-25,,"{""precio_cop"":250000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-12-25T12:00:00-05:00
+520,1,servicio,2024-12-26,4,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2024-12-26T12:00:00-05:00
+521,1,destete,2024-12-26,5,"{""peso_kg"":94.0}",confirmado,,,,2,2024-12-26T12:00:00-05:00
+522,1,traslado,2024-12-26,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2024-12-26T12:00:00-05:00
+523,1,traslado,2024-12-27,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2024-12-27T12:00:00-05:00
+524,1,pesaje,2024-12-27,5,"{""peso_kg"":352.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2024-12-27T12:00:00-05:00
+525,1,servicio,2024-12-27,5,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2024-12-27T12:00:00-05:00
+526,1,parto,2024-12-29,7,"{""resultado"":""vivo"",""cria_id"":73,""cria_numero"":""334"",""cria_sexo"":""H"",""peso_kg"":37.3}",confirmado,,,,3,2024-12-29T12:00:00-05:00
+527,1,traslado,2024-12-29,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2024-12-29T12:00:00-05:00
+528,1,servicio,2024-12-31,1,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2024-12-31T12:00:00-05:00
+529,1,venta,2024-12-31,,"{""precio_cop"":670000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2024-12-31T12:00:00-05:00
+530,1,traslado,2025-01-01,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-01-01T12:00:00-05:00
+531,1,palpacion,2025-01-01,1,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2025-08-22""}",confirmado,,,,2,2025-01-01T12:00:00-05:00
+532,1,servicio,2025-01-02,1,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-01-02T12:00:00-05:00
+533,1,traslado,2025-01-04,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-01-04T12:00:00-05:00
+534,1,secado,2025-01-07,2,{},confirmado,,,,2,2025-01-07T12:00:00-05:00
+535,1,pesaje,2025-01-07,2,"{""peso_kg"":676.0}",confirmado,,,,2,2025-01-07T12:00:00-05:00
+536,1,traslado,2025-01-07,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-01-07T12:00:00-05:00
+537,1,servicio,2025-01-09,2,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2025-01-09T12:00:00-05:00
+538,1,palpacion,2025-01-10,2,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2025-08-25""}",confirmado,,,,2,2025-01-10T12:00:00-05:00
+539,1,traslado,2025-01-12,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-01-12T12:00:00-05:00
+540,1,palpacion,2025-01-12,3,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2025-09-07""}",confirmado,,,,2,2025-01-12T12:00:00-05:00
+541,1,palpacion,2025-01-16,3,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2025-09-10""}",confirmado,,,,2,2025-01-16T12:00:00-05:00
+542,1,traslado,2025-01-20,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-01-20T12:00:00-05:00
+543,1,tratamiento,2025-01-22,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2025-01-22T12:00:00-05:00
+544,1,secado,2025-01-23,4,{},confirmado,,,,2,2025-01-23T12:00:00-05:00
+545,1,pesaje,2025-01-23,4,"{""peso_kg"":625.0}",confirmado,,,,2,2025-01-23T12:00:00-05:00
+546,1,traslado,2025-01-23,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-01-23T12:00:00-05:00
+547,1,pesaje,2025-01-23,5,"{""peso_kg"":392.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2025-01-23T12:00:00-05:00
+548,1,servicio,2025-01-23,5,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2025-01-23T12:00:00-05:00
+549,1,servicio,2025-01-23,4,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2025-01-23T12:00:00-05:00
+550,1,servicio,2025-01-25,4,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2025-01-25T12:00:00-05:00
+551,1,traslado,2025-01-28,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-01-28T12:00:00-05:00
+552,1,palpacion,2025-01-29,1,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2025-09-14""}",confirmado,,,,2,2025-01-29T12:00:00-05:00
+553,1,servicio,2025-01-29,1,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2025-01-29T12:00:00-05:00
+554,1,servicio,2025-02-02,1,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2025-02-02T12:00:00-05:00
+555,1,palpacion,2025-02-02,1,"{""resultado"":""preñada"",""meses_gestacion"":2.0,""fecha_probable_parto"":""2025-09-13""}",confirmado,,,,2,2025-02-02T12:00:00-05:00
+556,1,palpacion,2025-02-03,1,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2025-09-28""}",confirmado,,,,2,2025-02-03T12:00:00-05:00
+557,1,traslado,2025-02-05,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-02-05T12:00:00-05:00
+558,1,palpacion,2025-02-05,2,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2025-09-19""}",confirmado,,,,2,2025-02-05T12:00:00-05:00
+559,1,venta,2025-02-10,,"{""precio_cop"":410000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-02-10T12:00:00-05:00
+560,1,palpacion,2025-02-11,2,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2025-10-05""}",confirmado,,,,2,2025-02-11T12:00:00-05:00
+561,1,palpacion,2025-02-11,5,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2025-10-06""}",confirmado,,,,2,2025-02-11T12:00:00-05:00
+562,1,traslado,2025-02-13,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-02-13T12:00:00-05:00
+563,1,traslado,2025-02-21,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-02-21T12:00:00-05:00
+564,1,pesaje,2025-02-21,5,"{""peso_kg"":382.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2025-02-21T12:00:00-05:00
+565,1,servicio,2025-02-21,5,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-02-21T12:00:00-05:00
+566,1,palpacion,2025-02-22,4,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2025-10-10""}",confirmado,,,,2,2025-02-22T12:00:00-05:00
+567,1,traslado,2025-02-26,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-02-26T12:00:00-05:00
+568,1,servicio,2025-02-27,4,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2025-02-27T12:00:00-05:00
+569,1,traslado,2025-03-01,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-03-01T12:00:00-05:00
+570,1,secado,2025-03-03,1,{},confirmado,,,,2,2025-03-03T12:00:00-05:00
+571,1,pesaje,2025-03-03,1,"{""peso_kg"":563.0}",confirmado,,,,2,2025-03-03T12:00:00-05:00
+572,1,traslado,2025-03-03,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-03-03T12:00:00-05:00
+573,1,tratamiento,2025-03-04,,"{""producto_id"":4,""producto"":""Desparasitante (demo)"",""via"":""oral""}",confirmado,,,,2,2025-03-04T12:00:00-05:00
+574,1,secado,2025-03-04,1,{},confirmado,,,,2,2025-03-04T12:00:00-05:00
+575,1,pesaje,2025-03-04,1,"{""peso_kg"":625.0}",confirmado,,,,2,2025-03-04T12:00:00-05:00
+576,1,traslado,2025-03-04,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-03-04T12:00:00-05:00
+577,1,servicio,2025-03-04,1,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2025-03-04T12:00:00-05:00
+578,1,servicio,2025-03-07,1,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2025-03-07T12:00:00-05:00
+579,1,servicio,2025-03-08,1,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2025-03-08T12:00:00-05:00
+580,1,parto,2025-03-08,7,"{""resultado"":""vivo"",""cria_id"":74,""cria_numero"":""335"",""cria_sexo"":""H"",""peso_kg"":40.3}",confirmado,,,,3,2025-03-08T12:00:00-05:00
+581,1,traslado,2025-03-08,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-03-08T12:00:00-05:00
+582,1,traslado,2025-03-09,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-03-09T12:00:00-05:00
+583,1,secado,2025-03-09,2,{},confirmado,,,,2,2025-03-09T12:00:00-05:00
+584,1,pesaje,2025-03-09,2,"{""peso_kg"":518.0}",confirmado,,,,2,2025-03-09T12:00:00-05:00
+585,1,traslado,2025-03-09,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-03-09T12:00:00-05:00
+586,1,traslado,2025-03-11,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-03-11T12:00:00-05:00
+587,1,secado,2025-03-12,2,{},confirmado,,,,2,2025-03-12T12:00:00-05:00
+588,1,pesaje,2025-03-12,2,"{""peso_kg"":409.0}",confirmado,,,,2,2025-03-12T12:00:00-05:00
+589,1,traslado,2025-03-12,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-03-12T12:00:00-05:00
+590,1,traslado,2025-03-14,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-03-14T12:00:00-05:00
+591,1,palpacion,2025-03-14,2,"{""resultado"":""vacía""}",confirmado,,,,2,2025-03-14T12:00:00-05:00
+592,1,palpacion,2025-03-15,5,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2025-11-02""}",confirmado,,,,2,2025-03-15T12:00:00-05:00
+593,1,traslado,2025-03-17,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-03-17T12:00:00-05:00
+594,1,servicio,2025-03-18,3,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2025-03-18T12:00:00-05:00
+595,1,tratamiento,2025-03-18,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2025-03-18T12:00:00-05:00
+596,1,secado,2025-03-20,3,{},confirmado,,,,2,2025-03-20T12:00:00-05:00
+597,1,pesaje,2025-03-20,3,"{""peso_kg"":602.0}",confirmado,,,,2,2025-03-20T12:00:00-05:00
+598,1,traslado,2025-03-20,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-03-20T12:00:00-05:00
+599,1,palpacion,2025-03-21,3,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2025-11-04""}",confirmado,,,,2,2025-03-21T12:00:00-05:00
+600,1,palpacion,2025-03-21,3,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2025-11-12""}",confirmado,,,,2,2025-03-21T12:00:00-05:00
+601,1,parto,2025-03-24,7,"{""resultado"":""vivo"",""cria_id"":75,""cria_numero"":""336"",""cria_sexo"":""M"",""peso_kg"":35.6}",confirmado,,,,3,2025-03-24T12:00:00-05:00
+602,1,traslado,2025-03-24,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-03-24T12:00:00-05:00
+603,1,palpacion,2025-03-24,3,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2025-11-08""}",confirmado,,,,2,2025-03-24T12:00:00-05:00
+604,1,traslado,2025-03-25,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-03-25T12:00:00-05:00
+605,1,servicio,2025-03-26,4,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-03-26T12:00:00-05:00
+606,1,traslado,2025-03-27,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-03-27T12:00:00-05:00
+607,1,venta,2025-03-31,,"{""precio_cop"":210000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-03-31T12:00:00-05:00
+608,1,traslado,2025-04-02,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-04-02T12:00:00-05:00
+609,1,tratamiento,2025-04-09,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2025-04-09T12:00:00-05:00
+610,1,traslado,2025-04-10,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-04-10T12:00:00-05:00
+611,1,palpacion,2025-04-14,5,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2025-12-01""}",confirmado,,,,2,2025-04-14T12:00:00-05:00
+612,1,traslado,2025-04-18,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-04-18T12:00:00-05:00
+613,1,secado,2025-04-21,3,{},confirmado,,,,2,2025-04-21T12:00:00-05:00
+614,1,pesaje,2025-04-21,3,"{""peso_kg"":571.0}",confirmado,,,,2,2025-04-21T12:00:00-05:00
+615,1,traslado,2025-04-21,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-04-21T12:00:00-05:00
+616,1,secado,2025-04-22,3,{},confirmado,,,,2,2025-04-22T12:00:00-05:00
+617,1,pesaje,2025-04-22,3,"{""peso_kg"":652.0}",confirmado,,,,2,2025-04-22T12:00:00-05:00
+618,1,traslado,2025-04-22,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-04-22T12:00:00-05:00
+619,1,traslado,2025-04-22,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-04-22T12:00:00-05:00
+620,1,traslado,2025-04-23,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-04-23T12:00:00-05:00
+621,1,palpacion,2025-04-24,3,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2025-12-16""}",confirmado,,,,2,2025-04-24T12:00:00-05:00
+622,1,traslado,2025-04-26,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-04-26T12:00:00-05:00
+623,1,traslado,2025-04-28,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-04-28T12:00:00-05:00
+624,1,pesaje,2025-04-28,5,"{""peso_kg"":317.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2025-04-28T12:00:00-05:00
+625,1,servicio,2025-04-28,5,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-04-28T12:00:00-05:00
+626,1,palpacion,2025-04-29,4,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2025-12-15""}",confirmado,,,,2,2025-04-29T12:00:00-05:00
+627,1,traslado,2025-05-01,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-05-01T12:00:00-05:00
+628,1,palpacion,2025-05-02,4,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2025-12-26""}",confirmado,,,,2,2025-05-02T12:00:00-05:00
+629,1,parto,2025-05-02,7,"{""resultado"":""vivo"",""cria_id"":76,""cria_numero"":""337"",""cria_sexo"":""M"",""peso_kg"":38.4}",confirmado,,,,3,2025-05-02T12:00:00-05:00
+630,1,traslado,2025-05-02,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-05-02T12:00:00-05:00
+631,1,parto,2025-05-03,7,"{""resultado"":""vivo"",""cria_id"":77,""cria_numero"":""338"",""cria_sexo"":""H"",""peso_kg"":38.6}",confirmado,,,,3,2025-05-03T12:00:00-05:00
+632,1,traslado,2025-05-03,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-05-03T12:00:00-05:00
+633,1,traslado,2025-05-04,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-05-04T12:00:00-05:00
+634,1,traslado,2025-05-05,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-05-05T12:00:00-05:00
+635,1,traslado,2025-05-06,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-05-06T12:00:00-05:00
+636,1,parto,2025-05-08,7,"{""resultado"":""vivo"",""cria_id"":78,""cria_numero"":""339"",""cria_sexo"":""H"",""peso_kg"":38.0}",confirmado,,,,3,2025-05-08T12:00:00-05:00
+637,1,traslado,2025-05-08,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-05-08T12:00:00-05:00
+638,1,secado,2025-05-08,1,{},confirmado,,,,2,2025-05-08T12:00:00-05:00
+639,1,pesaje,2025-05-08,1,"{""peso_kg"":554.0}",confirmado,,,,2,2025-05-08T12:00:00-05:00
+640,1,traslado,2025-05-08,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-05-08T12:00:00-05:00
+641,1,traslado,2025-05-09,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-05-09T12:00:00-05:00
+642,1,venta,2025-05-10,,"{""precio_cop"":170000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-05-10T12:00:00-05:00
+643,1,parto,2025-05-11,7,"{""resultado"":""vivo"",""cria_id"":79,""cria_numero"":""340"",""cria_sexo"":""H"",""peso_kg"":34.9}",confirmado,,,,3,2025-05-11T12:00:00-05:00
+644,1,traslado,2025-05-11,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-05-11T12:00:00-05:00
+645,1,traslado,2025-05-11,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-05-11T12:00:00-05:00
+646,1,traslado,2025-05-12,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-05-12T12:00:00-05:00
+647,1,tratamiento,2025-05-13,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2025-05-13T12:00:00-05:00
+648,1,tratamiento,2025-05-14,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2025-05-14T12:00:00-05:00
+649,1,traslado,2025-05-14,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-05-14T12:00:00-05:00
+650,1,palpacion,2025-05-14,2,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2026-01-03""}",confirmado,,,,2,2025-05-14T12:00:00-05:00
+651,1,parto,2025-05-19,7,"{""resultado"":""vivo"",""cria_id"":80,""cria_numero"":""341"",""cria_sexo"":""H"",""peso_kg"":35.5}",confirmado,,,,3,2025-05-19T12:00:00-05:00
+652,1,traslado,2025-05-19,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-05-19T12:00:00-05:00
+653,1,traslado,2025-05-20,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-05-20T12:00:00-05:00
+654,1,tratamiento,2025-05-20,3,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior derecho"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2025-05-26""}",confirmado,,,,2,2025-05-20T12:00:00-05:00
+655,1,traslado,2025-05-22,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-05-22T12:00:00-05:00
+656,1,servicio,2025-05-23,3,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2025-05-23T12:00:00-05:00
+657,1,secado,2025-05-27,3,{},confirmado,,,,2,2025-05-27T12:00:00-05:00
+658,1,pesaje,2025-05-27,3,"{""peso_kg"":621.0}",confirmado,,,,2,2025-05-27T12:00:00-05:00
+659,1,traslado,2025-05-27,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-05-27T12:00:00-05:00
+660,1,traslado,2025-05-28,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-05-28T12:00:00-05:00
+661,1,venta,2025-05-30,,"{""precio_cop"":610000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-05-30T12:00:00-05:00
+662,1,servicio,2025-05-31,4,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-05-31T12:00:00-05:00
+663,1,traslado,2025-06-05,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-06-05T12:00:00-05:00
+664,1,secado,2025-06-05,1,{},confirmado,,,,2,2025-06-05T12:00:00-05:00
+665,1,pesaje,2025-06-05,1,"{""peso_kg"":592.0}",confirmado,,,,2,2025-06-05T12:00:00-05:00
+666,1,traslado,2025-06-05,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-06-05T12:00:00-05:00
+667,1,destete,2025-06-06,5,"{""peso_kg"":92.0}",confirmado,,,,2,2025-06-06T12:00:00-05:00
+668,1,traslado,2025-06-06,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2025-06-06T12:00:00-05:00
+669,1,traslado,2025-06-10,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-06-10T12:00:00-05:00
+670,1,traslado,2025-06-11,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-06-11T12:00:00-05:00
+671,1,palpacion,2025-06-12,5,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2026-02-05""}",confirmado,,,,2,2025-06-12T12:00:00-05:00
+672,1,traslado,2025-06-13,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-06-13T12:00:00-05:00
+673,1,parto,2025-06-20,7,"{""resultado"":""vivo"",""cria_id"":81,""cria_numero"":""342"",""cria_sexo"":""M"",""peso_kg"":37.1}",anulado,674,"Error de animal: el parto fue de la 135, no de la 249",,3,2025-06-20T12:00:00-05:00
+674,1,parto,2025-06-20,7,"{""resultado"":""vivo"",""cria_id"":81,""cria_numero"":""342"",""cria_sexo"":""M"",""peso_kg"":37.1}",confirmado,,,,3,2025-06-20T12:00:00-05:00
+675,1,traslado,2025-06-20,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-06-20T12:00:00-05:00
+676,1,traslado,2025-06-21,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-06-21T12:00:00-05:00
+677,1,parto,2025-06-21,7,"{""resultado"":""vivo"",""cria_id"":82,""cria_numero"":""343"",""cria_sexo"":""H"",""peso_kg"":35.8}",confirmado,,,,3,2025-06-21T12:00:00-05:00
+678,1,traslado,2025-06-21,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-06-21T12:00:00-05:00
+679,1,tratamiento,2025-06-22,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2025-06-22T12:00:00-05:00
+680,1,venta,2025-06-22,,"{""precio_cop"":560000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-06-22T12:00:00-05:00
+681,1,secado,2025-06-23,3,{},confirmado,,,,2,2025-06-23T12:00:00-05:00
+682,1,pesaje,2025-06-23,3,"{""peso_kg"":616.0}",confirmado,,,,2,2025-06-23T12:00:00-05:00
+683,1,traslado,2025-06-23,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-06-23T12:00:00-05:00
+684,1,traslado,2025-06-23,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-06-23T12:00:00-05:00
+685,1,traslado,2025-06-24,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-06-24T12:00:00-05:00
+686,1,venta,2025-06-25,,"{""precio_cop"":3600000,""comprador"":""Frigorífico (demo)"",""motivo"":""descarte""}",confirmado,,,,1,2025-06-25T12:00:00-05:00
+687,1,venta,2025-06-26,,"{""precio_cop"":220000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-06-26T12:00:00-05:00
+688,1,traslado,2025-06-27,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-06-27T12:00:00-05:00
+689,1,traslado,2025-06-29,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-06-29T12:00:00-05:00
+690,1,secado,2025-06-30,4,{},confirmado,,,,2,2025-06-30T12:00:00-05:00
+691,1,pesaje,2025-06-30,4,"{""peso_kg"":667.0}",confirmado,,,,2,2025-06-30T12:00:00-05:00
+692,1,traslado,2025-06-30,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-06-30T12:00:00-05:00
+693,1,traslado,2025-07-07,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-07-07T12:00:00-05:00
+694,1,parto,2025-07-07,7,"{""resultado"":""vivo"",""cria_id"":83,""cria_numero"":""344"",""cria_sexo"":""H"",""peso_kg"":34.7}",confirmado,,,,3,2025-07-07T12:00:00-05:00
+695,1,traslado,2025-07-07,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-07-07T12:00:00-05:00
+696,1,servicio,2025-07-08,1,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-07-08T12:00:00-05:00
+697,1,secado,2025-07-08,1,{},confirmado,,,,2,2025-07-08T12:00:00-05:00
+698,1,pesaje,2025-07-08,1,"{""peso_kg"":428.0}",confirmado,,,,2,2025-07-08T12:00:00-05:00
+699,1,traslado,2025-07-08,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-07-08T12:00:00-05:00
+700,1,traslado,2025-07-10,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-07-10T12:00:00-05:00
+701,1,secado,2025-07-11,1,{},confirmado,,,,2,2025-07-11T12:00:00-05:00
+702,1,pesaje,2025-07-11,1,"{""peso_kg"":337.0}",confirmado,,,,2,2025-07-11T12:00:00-05:00
+703,1,traslado,2025-07-11,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-07-11T12:00:00-05:00
+704,1,secado,2025-07-11,1,{},confirmado,,,,2,2025-07-11T12:00:00-05:00
+705,1,pesaje,2025-07-11,1,"{""peso_kg"":622.0}",confirmado,,,,2,2025-07-11T12:00:00-05:00
+706,1,traslado,2025-07-11,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-07-11T12:00:00-05:00
+707,1,servicio,2025-07-12,1,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-07-12T12:00:00-05:00
+708,1,palpacion,2025-07-12,1,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2026-03-02""}",confirmado,,,,2,2025-07-12T12:00:00-05:00
+709,1,traslado,2025-07-15,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-07-15T12:00:00-05:00
+710,1,secado,2025-07-16,2,{},confirmado,,,,2,2025-07-16T12:00:00-05:00
+711,1,pesaje,2025-07-16,2,"{""peso_kg"":638.0}",confirmado,,,,2,2025-07-16T12:00:00-05:00
+712,1,traslado,2025-07-16,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-07-16T12:00:00-05:00
+713,1,tratamiento,2025-07-16,2,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior derecho"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2025-07-22""}",confirmado,,,,2,2025-07-16T12:00:00-05:00
+714,1,traslado,2025-07-16,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-07-16T12:00:00-05:00
+715,1,venta,2025-07-20,,"{""precio_cop"":600000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-07-20T12:00:00-05:00
+716,1,traslado,2025-07-23,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-07-23T12:00:00-05:00
+717,1,palpacion,2025-07-23,3,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2026-03-10""}",confirmado,,,,2,2025-07-23T12:00:00-05:00
+718,1,secado,2025-07-24,3,{},confirmado,,,,2,2025-07-24T12:00:00-05:00
+719,1,pesaje,2025-07-24,3,"{""peso_kg"":637.0}",confirmado,,,,2,2025-07-24T12:00:00-05:00
+720,1,traslado,2025-07-24,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-07-24T12:00:00-05:00
+721,1,traslado,2025-07-25,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-07-25T12:00:00-05:00
+722,1,parto,2025-07-26,7,"{""resultado"":""vivo"",""cria_id"":84,""cria_numero"":""345"",""cria_sexo"":""H"",""peso_kg"":35.9}",confirmado,,,,3,2025-07-26T12:00:00-05:00
+723,1,traslado,2025-07-26,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-07-26T12:00:00-05:00
+724,1,traslado,2025-07-29,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-07-29T12:00:00-05:00
+725,1,secado,2025-07-29,3,{},confirmado,,,,2,2025-07-29T12:00:00-05:00
+726,1,pesaje,2025-07-29,3,"{""peso_kg"":654.0}",confirmado,,,,2,2025-07-29T12:00:00-05:00
+727,1,traslado,2025-07-29,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-07-29T12:00:00-05:00
+728,1,traslado,2025-07-31,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-07-31T12:00:00-05:00
+729,1,servicio,2025-08-03,4,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2025-08-03T12:00:00-05:00
+730,1,tratamiento,2025-08-03,4,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior derecho"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2025-08-09""}",confirmado,,,,2,2025-08-03T12:00:00-05:00
+731,1,parto,2025-08-04,7,"{""resultado"":""vivo"",""cria_id"":85,""cria_numero"":""346"",""cria_sexo"":""M"",""peso_kg"":39.0}",confirmado,,,,3,2025-08-04T12:00:00-05:00
+732,1,traslado,2025-08-04,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-08-04T12:00:00-05:00
+733,1,secado,2025-08-04,4,{},confirmado,,,,2,2025-08-04T12:00:00-05:00
+734,1,pesaje,2025-08-04,4,"{""peso_kg"":587.0}",confirmado,,,,2,2025-08-04T12:00:00-05:00
+735,1,traslado,2025-08-04,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-08-04T12:00:00-05:00
+736,1,servicio,2025-08-05,4,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2025-08-05T12:00:00-05:00
+737,1,destete,2025-08-06,5,"{""peso_kg"":102.0}",confirmado,,,,2,2025-08-06T12:00:00-05:00
+738,1,traslado,2025-08-06,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2025-08-06T12:00:00-05:00
+739,1,traslado,2025-08-07,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-08-07T12:00:00-05:00
+740,1,traslado,2025-08-08,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-08-08T12:00:00-05:00
+741,1,servicio,2025-08-08,1,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2025-08-08T12:00:00-05:00
+742,1,secado,2025-08-11,1,{},confirmado,,,,2,2025-08-11T12:00:00-05:00
+743,1,pesaje,2025-08-11,1,"{""peso_kg"":420.0}",confirmado,,,,2,2025-08-11T12:00:00-05:00
+744,1,traslado,2025-08-11,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-08-11T12:00:00-05:00
+745,1,traslado,2025-08-12,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-08-12T12:00:00-05:00
+746,1,venta,2025-08-12,,"{""precio_cop"":260000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-08-12T12:00:00-05:00
+747,1,traslado,2025-08-16,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-08-16T12:00:00-05:00
+748,1,destete,2025-08-17,5,"{""peso_kg"":91.0}",confirmado,,,,2,2025-08-17T12:00:00-05:00
+749,1,traslado,2025-08-17,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2025-08-17T12:00:00-05:00
+750,1,traslado,2025-08-19,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-08-19T12:00:00-05:00
+751,1,parto,2025-08-22,7,"{""resultado"":""vivo"",""cria_id"":86,""cria_numero"":""347"",""cria_sexo"":""M"",""peso_kg"":35.4}",confirmado,,,,3,2025-08-22T12:00:00-05:00
+752,1,traslado,2025-08-22,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-08-22T12:00:00-05:00
+753,1,traslado,2025-08-24,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-08-24T12:00:00-05:00
+754,1,traslado,2025-08-25,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-08-25T12:00:00-05:00
+755,1,servicio,2025-08-25,3,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-08-25T12:00:00-05:00
+756,1,pesaje,2025-08-26,5,"{""peso_kg"":374.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2025-08-26T12:00:00-05:00
+757,1,servicio,2025-08-26,5,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2025-08-26T12:00:00-05:00
+758,1,traslado,2025-08-27,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-08-27T12:00:00-05:00
+759,1,parto,2025-08-29,7,"{""resultado"":""vivo"",""cria_id"":87,""cria_numero"":""348"",""cria_sexo"":""M"",""peso_kg"":42.5}",confirmado,,,,3,2025-08-29T12:00:00-05:00
+760,1,traslado,2025-08-29,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-08-29T12:00:00-05:00
+761,1,traslado,2025-08-30,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-08-30T12:00:00-05:00
+762,1,servicio,2025-08-30,3,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2025-08-30T12:00:00-05:00
+763,1,traslado,2025-08-30,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-08-30T12:00:00-05:00
+764,1,traslado,2025-09-01,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-09-01T12:00:00-05:00
+765,1,traslado,2025-09-01,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-09-01T12:00:00-05:00
+766,1,venta,2025-09-01,,"{""precio_cop"":310000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-09-01T12:00:00-05:00
+767,1,palpacion,2025-09-02,4,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2026-04-17""}",confirmado,,,,2,2025-09-02T12:00:00-05:00
+768,1,traslado,2025-09-04,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-09-04T12:00:00-05:00
+769,1,parto,2025-09-06,7,"{""resultado"":""vivo"",""cria_id"":88,""cria_numero"":""349"",""cria_sexo"":""H"",""peso_kg"":28.9}",confirmado,,,,3,2025-09-06T12:00:00-05:00
+770,1,traslado,2025-09-06,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-09-06T12:00:00-05:00
+771,1,venta,2025-09-06,,"{""precio_cop"":280000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-09-06T12:00:00-05:00
+772,1,secado,2025-09-07,4,{},confirmado,,,,2,2025-09-07T12:00:00-05:00
+773,1,pesaje,2025-09-07,4,"{""peso_kg"":547.0}",confirmado,,,,2,2025-09-07T12:00:00-05:00
+774,1,traslado,2025-09-07,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-09-07T12:00:00-05:00
+775,1,secado,2025-09-07,4,{},confirmado,,,,2,2025-09-07T12:00:00-05:00
+776,1,pesaje,2025-09-07,4,"{""peso_kg"":612.0}",confirmado,,,,2,2025-09-07T12:00:00-05:00
+777,1,traslado,2025-09-07,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-09-07T12:00:00-05:00
+778,1,traslado,2025-09-09,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-09-09T12:00:00-05:00
+779,1,tratamiento,2025-09-09,,"{""producto_id"":4,""producto"":""Desparasitante (demo)"",""via"":""oral""}",confirmado,,,,2,2025-09-09T12:00:00-05:00
+780,1,parto,2025-09-09,7,"{""resultado"":""vivo"",""cria_id"":89,""cria_numero"":""350"",""cria_sexo"":""H"",""peso_kg"":38.5}",confirmado,,,,3,2025-09-09T12:00:00-05:00
+781,1,traslado,2025-09-09,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-09-09T12:00:00-05:00
+782,1,traslado,2025-09-09,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-09-09T12:00:00-05:00
+783,1,parto,2025-09-09,7,"{""resultado"":""vivo"",""cria_id"":90,""cria_numero"":""351"",""cria_sexo"":""M"",""peso_kg"":35.9}",confirmado,,,,3,2025-09-09T12:00:00-05:00
+784,1,traslado,2025-09-09,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-09-09T12:00:00-05:00
+785,1,traslado,2025-09-12,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-09-12T12:00:00-05:00
+786,1,traslado,2025-09-12,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-09-12T12:00:00-05:00
+787,1,traslado,2025-09-12,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-09-12T12:00:00-05:00
+788,1,servicio,2025-09-13,1,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2025-09-13T12:00:00-05:00
+789,1,parto,2025-09-14,7,"{""resultado"":""vivo"",""cria_id"":91,""cria_numero"":""352"",""cria_sexo"":""H"",""peso_kg"":35.9}",confirmado,,,,3,2025-09-14T12:00:00-05:00
+790,1,traslado,2025-09-14,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-09-14T12:00:00-05:00
+791,1,secado,2025-09-15,1,{},confirmado,,,,2,2025-09-15T12:00:00-05:00
+792,1,pesaje,2025-09-15,1,"{""peso_kg"":538.0}",confirmado,,,,2,2025-09-15T12:00:00-05:00
+793,1,traslado,2025-09-15,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-09-15T12:00:00-05:00
+794,1,traslado,2025-09-17,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-09-17T12:00:00-05:00
+795,1,traslado,2025-09-17,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-09-17T12:00:00-05:00
+796,1,traslado,2025-09-17,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-09-17T12:00:00-05:00
+797,1,tratamiento,2025-09-18,2,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""posterior derecho"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2025-09-24""}",confirmado,,,,2,2025-09-18T12:00:00-05:00
+798,1,pesaje,2025-09-18,5,"{""peso_kg"":246.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2025-09-18T12:00:00-05:00
+799,1,servicio,2025-09-18,5,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2025-09-18T12:00:00-05:00
+800,1,venta,2025-09-18,,"{""precio_cop"":260000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-09-18T12:00:00-05:00
+801,1,servicio,2025-09-20,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-09-20T12:00:00-05:00
+802,1,palpacion,2025-09-21,2,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2026-05-15""}",confirmado,,,,2,2025-09-21T12:00:00-05:00
+803,1,parto,2025-09-22,7,"{""resultado"":""vivo"",""cria_id"":92,""cria_numero"":""353"",""cria_sexo"":""M"",""peso_kg"":36.6}",confirmado,,,,3,2025-09-22T12:00:00-05:00
+804,1,traslado,2025-09-22,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-09-22T12:00:00-05:00
+805,1,traslado,2025-09-22,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-09-22T12:00:00-05:00
+806,1,traslado,2025-09-23,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-09-23T12:00:00-05:00
+807,1,traslado,2025-09-25,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-09-25T12:00:00-05:00
+808,1,traslado,2025-09-25,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-09-25T12:00:00-05:00
+809,1,servicio,2025-09-26,3,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-09-26T12:00:00-05:00
+810,1,servicio,2025-09-26,3,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2025-09-26T12:00:00-05:00
+811,1,parto,2025-09-27,7,"{""resultado"":""vivo"",""cria_id"":93,""cria_numero"":""354"",""cria_sexo"":""H"",""peso_kg"":32.9}",confirmado,,,,3,2025-09-27T12:00:00-05:00
+812,1,traslado,2025-09-27,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-09-27T12:00:00-05:00
+813,1,palpacion,2025-09-28,3,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2026-05-13""}",confirmado,,,,2,2025-09-28T12:00:00-05:00
+814,1,venta,2025-09-29,,"{""precio_cop"":260000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-09-29T12:00:00-05:00
+815,1,traslado,2025-09-30,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-09-30T12:00:00-05:00
+816,1,traslado,2025-09-30,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-09-30T12:00:00-05:00
+817,1,parto,2025-10-02,7,"{""resultado"":""vivo"",""cria_id"":94,""cria_numero"":""355"",""cria_sexo"":""M"",""peso_kg"":33.9}",confirmado,,,,3,2025-10-02T12:00:00-05:00
+818,1,traslado,2025-10-02,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-10-02T12:00:00-05:00
+819,1,traslado,2025-10-03,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-10-03T12:00:00-05:00
+820,1,parto,2025-10-03,7,"{""resultado"":""vivo"",""cria_id"":95,""cria_numero"":""356"",""cria_sexo"":""H"",""peso_kg"":32.3}",confirmado,,,,3,2025-10-03T12:00:00-05:00
+821,1,traslado,2025-10-03,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-10-03T12:00:00-05:00
+822,1,servicio,2025-10-04,4,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2025-10-04T12:00:00-05:00
+823,1,palpacion,2025-10-05,4,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2026-05-18""}",confirmado,,,,2,2025-10-05T12:00:00-05:00
+824,1,traslado,2025-10-05,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-10-05T12:00:00-05:00
+825,1,destete,2025-10-05,5,"{""peso_kg"":92.0}",confirmado,,,,2,2025-10-05T12:00:00-05:00
+826,1,traslado,2025-10-05,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2025-10-05T12:00:00-05:00
+827,1,traslado,2025-10-06,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-10-06T12:00:00-05:00
+828,1,parto,2025-10-10,7,"{""resultado"":""vivo"",""cria_id"":96,""cria_numero"":""357"",""cria_sexo"":""H"",""peso_kg"":40.6}",confirmado,,,,3,2025-10-10T12:00:00-05:00
+829,1,traslado,2025-10-10,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-10-10T12:00:00-05:00
+830,1,venta,2025-10-10,,"{""precio_cop"":190000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-10-10T12:00:00-05:00
+831,1,traslado,2025-10-11,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-10-11T12:00:00-05:00
+832,1,traslado,2025-10-13,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-10-13T12:00:00-05:00
+833,1,secado,2025-10-14,1,{},confirmado,,,,2,2025-10-14T12:00:00-05:00
+834,1,pesaje,2025-10-14,1,"{""peso_kg"":626.0}",confirmado,,,,2,2025-10-14T12:00:00-05:00
+835,1,traslado,2025-10-14,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-10-14T12:00:00-05:00
+836,1,palpacion,2025-10-17,1,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2026-06-04""}",confirmado,,,,2,2025-10-17T12:00:00-05:00
+837,1,secado,2025-10-17,1,{},confirmado,,,,2,2025-10-17T12:00:00-05:00
+838,1,pesaje,2025-10-17,1,"{""peso_kg"":572.0}",confirmado,,,,2,2025-10-17T12:00:00-05:00
+839,1,traslado,2025-10-17,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-10-17T12:00:00-05:00
+840,1,venta,2025-10-18,,"{""precio_cop"":3400000,""comprador"":""Frigorífico (demo)"",""motivo"":""descarte""}",confirmado,,,,1,2025-10-18T12:00:00-05:00
+841,1,traslado,2025-10-19,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-10-19T12:00:00-05:00
+842,1,venta,2025-10-20,,"{""precio_cop"":800000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-10-20T12:00:00-05:00
+843,1,palpacion,2025-10-21,5,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2026-06-05""}",confirmado,,,,2,2025-10-21T12:00:00-05:00
+844,1,secado,2025-10-23,2,{},confirmado,,,,2,2025-10-23T12:00:00-05:00
+845,1,pesaje,2025-10-23,2,"{""peso_kg"":581.0}",confirmado,,,,2,2025-10-23T12:00:00-05:00
+846,1,traslado,2025-10-23,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2025-10-23T12:00:00-05:00
+847,1,destete,2025-10-24,5,"{""peso_kg"":79.0}",confirmado,,,,2,2025-10-24T12:00:00-05:00
+848,1,traslado,2025-10-24,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2025-10-24T12:00:00-05:00
+849,1,traslado,2025-10-25,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-10-25T12:00:00-05:00
+850,1,servicio,2025-10-26,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-10-26T12:00:00-05:00
+851,1,traslado,2025-10-27,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-10-27T12:00:00-05:00
+852,1,servicio,2025-10-27,3,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2025-10-27T12:00:00-05:00
+853,1,traslado,2025-10-27,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-10-27T12:00:00-05:00
+854,1,traslado,2025-10-27,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-10-27T12:00:00-05:00
+855,1,tratamiento,2025-11-01,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2025-11-01T12:00:00-05:00
+856,1,traslado,2025-11-04,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-11-04T12:00:00-05:00
+857,1,traslado,2025-11-04,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-11-04T12:00:00-05:00
+858,1,parto,2025-11-04,7,"{""resultado"":""vivo"",""cria_id"":97,""cria_numero"":""358"",""cria_sexo"":""M"",""peso_kg"":38.7}",confirmado,,,,3,2025-11-04T12:00:00-05:00
+859,1,traslado,2025-11-04,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-11-04T12:00:00-05:00
+860,1,parto,2025-11-06,7,"{""resultado"":""vivo"",""cria_id"":98,""cria_numero"":""359"",""cria_sexo"":""M"",""peso_kg"":32.7}",confirmado,,,,3,2025-11-06T12:00:00-05:00
+861,1,traslado,2025-11-06,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-11-06T12:00:00-05:00
+862,1,parto,2025-11-06,7,"{""resultado"":""vivo"",""cria_id"":99,""cria_numero"":""360"",""cria_sexo"":""H"",""peso_kg"":37.4}",confirmado,,,,3,2025-11-06T12:00:00-05:00
+863,1,traslado,2025-11-06,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-11-06T12:00:00-05:00
+864,1,servicio,2025-11-07,4,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2025-11-07T12:00:00-05:00
+865,1,tratamiento,2025-11-07,4,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2025-11-13""}",confirmado,,,,2,2025-11-07T12:00:00-05:00
+866,1,traslado,2025-11-07,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-11-07T12:00:00-05:00
+867,1,tratamiento,2025-11-08,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2025-11-08T12:00:00-05:00
+868,1,traslado,2025-11-09,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-11-09T12:00:00-05:00
+869,1,traslado,2025-11-09,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-11-09T12:00:00-05:00
+870,1,venta,2025-11-09,,"{""precio_cop"":150000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-11-09T12:00:00-05:00
+871,1,tratamiento,2025-11-11,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2025-11-11T12:00:00-05:00
+872,1,servicio,2025-11-11,4,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-11-11T12:00:00-05:00
+873,1,traslado,2025-11-12,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-11-12T12:00:00-05:00
+874,1,tratamiento,2025-11-12,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2025-11-12T12:00:00-05:00
+875,1,palpacion,2025-11-12,1,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2026-07-06""}",confirmado,,,,2,2025-11-12T12:00:00-05:00
+876,1,servicio,2025-11-13,1,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2025-11-13T12:00:00-05:00
+877,1,palpacion,2025-11-13,1,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2026-07-06""}",confirmado,,,,2,2025-11-13T12:00:00-05:00
+878,1,palpacion,2025-11-13,5,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2026-06-28""}",confirmado,,,,2,2025-11-13T12:00:00-05:00
+879,1,venta,2025-11-13,,"{""precio_cop"":280000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-11-13T12:00:00-05:00
+880,1,parto,2025-11-14,7,"{""resultado"":""vivo"",""cria_id"":100,""cria_numero"":""361"",""cria_sexo"":""H"",""peso_kg"":35.0}",confirmado,,,,3,2025-11-14T12:00:00-05:00
+881,1,traslado,2025-11-14,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-11-14T12:00:00-05:00
+882,1,venta,2025-11-14,,"{""precio_cop"":700000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-11-14T12:00:00-05:00
+883,1,servicio,2025-11-16,1,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2025-11-16T12:00:00-05:00
+884,1,traslado,2025-11-17,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-11-17T12:00:00-05:00
+885,1,servicio,2025-11-18,1,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2025-11-18T12:00:00-05:00
+886,1,palpacion,2025-11-19,1,"{""resultado"":""preñada"",""meses_gestacion"":2.0,""fecha_probable_parto"":""2026-06-30""}",confirmado,,,,2,2025-11-19T12:00:00-05:00
+887,1,traslado,2025-11-20,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-11-20T12:00:00-05:00
+888,1,tratamiento,2025-11-21,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2025-11-21T12:00:00-05:00
+889,1,traslado,2025-11-25,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-11-25T12:00:00-05:00
+890,1,traslado,2025-11-28,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-11-28T12:00:00-05:00
+891,1,servicio,2025-11-28,3,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2025-11-28T12:00:00-05:00
+892,1,traslado,2025-12-03,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-12-03T12:00:00-05:00
+893,1,parto,2025-12-05,7,"{""resultado"":""vivo"",""cria_id"":101,""cria_numero"":""362"",""cria_sexo"":""M"",""peso_kg"":38.9}",confirmado,,,,3,2025-12-05T12:00:00-05:00
+894,1,traslado,2025-12-05,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-12-05T12:00:00-05:00
+895,1,servicio,2025-12-05,3,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-12-05T12:00:00-05:00
+896,1,destete,2025-12-05,5,"{""peso_kg"":100.0}",confirmado,,,,2,2025-12-05T12:00:00-05:00
+897,1,traslado,2025-12-05,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2025-12-05T12:00:00-05:00
+898,1,traslado,2025-12-06,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-12-06T12:00:00-05:00
+899,1,traslado,2025-12-06,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-12-06T12:00:00-05:00
+900,1,servicio,2025-12-07,4,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2025-12-07T12:00:00-05:00
+901,1,traslado,2025-12-08,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2025-12-08T12:00:00-05:00
+902,1,destete,2025-12-08,5,"{""peso_kg"":97.0}",confirmado,,,,2,2025-12-08T12:00:00-05:00
+903,1,traslado,2025-12-08,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2025-12-08T12:00:00-05:00
+904,1,servicio,2025-12-09,4,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2025-12-09T12:00:00-05:00
+905,1,servicio,2025-12-10,4,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2025-12-10T12:00:00-05:00
+906,1,venta,2025-12-11,,"{""precio_cop"":250000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-12-11T12:00:00-05:00
+907,1,traslado,2025-12-12,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2025-12-12T12:00:00-05:00
+908,1,palpacion,2025-12-12,4,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2026-08-05""}",confirmado,,,,2,2025-12-12T12:00:00-05:00
+909,1,parto,2025-12-13,7,"{""resultado"":""vivo"",""cria_id"":102,""cria_numero"":""363"",""cria_sexo"":""M"",""peso_kg"":43.5}",confirmado,,,,3,2025-12-13T12:00:00-05:00
+910,1,traslado,2025-12-13,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-12-13T12:00:00-05:00
+911,1,traslado,2025-12-14,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-12-14T12:00:00-05:00
+912,1,venta,2025-12-16,,"{""precio_cop"":3200000,""comprador"":""Frigorífico (demo)"",""motivo"":""descarte""}",confirmado,,,,1,2025-12-16T12:00:00-05:00
+913,1,traslado,2025-12-16,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-12-16T12:00:00-05:00
+914,1,servicio,2025-12-16,1,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-12-16T12:00:00-05:00
+915,1,parto,2025-12-16,7,"{""resultado"":""vivo"",""cria_id"":103,""cria_numero"":""364"",""cria_sexo"":""M"",""peso_kg"":38.6}",confirmado,,,,3,2025-12-16T12:00:00-05:00
+916,1,traslado,2025-12-16,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-12-16T12:00:00-05:00
+917,1,venta,2025-12-16,,"{""precio_cop"":420000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-12-16T12:00:00-05:00
+918,1,servicio,2025-12-18,1,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2025-12-18T12:00:00-05:00
+919,1,traslado,2025-12-19,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2025-12-19T12:00:00-05:00
+920,1,venta,2025-12-21,,"{""precio_cop"":240000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-12-21T12:00:00-05:00
+921,1,traslado,2025-12-22,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-12-22T12:00:00-05:00
+922,1,parto,2025-12-22,7,"{""resultado"":""vivo"",""cria_id"":104,""cria_numero"":""365"",""cria_sexo"":""H"",""peso_kg"":35.2}",confirmado,,,,3,2025-12-22T12:00:00-05:00
+923,1,traslado,2025-12-22,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2025-12-22T12:00:00-05:00
+924,1,servicio,2025-12-24,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2025-12-24T12:00:00-05:00
+925,1,traslado,2025-12-25,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2025-12-25T12:00:00-05:00
+926,1,pesaje,2025-12-26,5,"{""peso_kg"":377.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2025-12-26T12:00:00-05:00
+927,1,servicio,2025-12-26,5,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2025-12-26T12:00:00-05:00
+928,1,destete,2025-12-26,5,"{""peso_kg"":95.0}",confirmado,,,,2,2025-12-26T12:00:00-05:00
+929,1,traslado,2025-12-26,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2025-12-26T12:00:00-05:00
+930,1,venta,2025-12-26,,"{""precio_cop"":320000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2025-12-26T12:00:00-05:00
+931,1,traslado,2025-12-30,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2025-12-30T12:00:00-05:00
+932,1,secado,2026-01-04,3,{},confirmado,,,,2,2026-01-04T12:00:00-05:00
+933,1,pesaje,2026-01-04,3,"{""peso_kg"":608.0}",confirmado,,,,2,2026-01-04T12:00:00-05:00
+934,1,traslado,2026-01-04,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-01-04T12:00:00-05:00
+935,1,palpacion,2026-01-04,3,"{""resultado"":""vacía""}",confirmado,,,,2,2026-01-04T12:00:00-05:00
+936,1,palpacion,2026-01-06,3,"{""resultado"":""preñada"",""meses_gestacion"":2.0,""fecha_probable_parto"":""2026-08-17""}",confirmado,,,,2,2026-01-06T12:00:00-05:00
+937,1,servicio,2026-01-06,3,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2026-01-06T12:00:00-05:00
+938,1,traslado,2026-01-07,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-01-07T12:00:00-05:00
+939,1,palpacion,2026-01-08,4,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2026-08-28""}",confirmado,,,,2,2026-01-08T12:00:00-05:00
+940,1,servicio,2026-01-08,4,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2026-01-08T12:00:00-05:00
+941,1,servicio,2026-01-08,4,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2026-01-08T12:00:00-05:00
+942,1,destete,2026-01-08,5,"{""peso_kg"":98.0}",confirmado,,,,2,2026-01-08T12:00:00-05:00
+943,1,traslado,2026-01-08,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2026-01-08T12:00:00-05:00
+944,1,tratamiento,2026-01-09,4,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""posterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2026-01-15""}",confirmado,,,,2,2026-01-09T12:00:00-05:00
+945,1,palpacion,2026-01-10,4,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2026-08-23""}",confirmado,,,,2,2026-01-10T12:00:00-05:00
+946,1,palpacion,2026-01-10,4,"{""resultado"":""preñada"",""meses_gestacion"":2.0,""fecha_probable_parto"":""2026-08-21""}",confirmado,,,,2,2026-01-10T12:00:00-05:00
+947,1,secado,2026-01-13,4,{},confirmado,,,,2,2026-01-13T12:00:00-05:00
+948,1,pesaje,2026-01-13,4,"{""peso_kg"":609.0}",confirmado,,,,2,2026-01-13T12:00:00-05:00
+949,1,traslado,2026-01-13,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-01-13T12:00:00-05:00
+950,1,traslado,2026-01-15,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-01-15T12:00:00-05:00
+951,1,tratamiento,2026-01-18,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2026-01-18T12:00:00-05:00
+952,1,servicio,2026-01-21,1,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2026-01-21T12:00:00-05:00
+953,1,traslado,2026-01-23,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-01-23T12:00:00-05:00
+954,1,servicio,2026-01-23,2,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2026-01-23T12:00:00-05:00
+955,1,parto,2026-01-24,2,"{""resultado"":""aborto"",""meses_gestacion"":5.7}",confirmado,,,,2,2026-01-24T12:00:00-05:00
+956,1,venta,2026-01-26,,"{""precio_cop"":660000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-01-26T12:00:00-05:00
+957,1,traslado,2026-01-27,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-01-27T12:00:00-05:00
+958,1,servicio,2026-01-29,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-01-29T12:00:00-05:00
+959,1,traslado,2026-01-31,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-01-31T12:00:00-05:00
+960,1,palpacion,2026-02-02,3,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2026-09-18""}",confirmado,,,,2,2026-02-02T12:00:00-05:00
+961,1,servicio,2026-02-02,3,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-02-02T12:00:00-05:00
+962,1,servicio,2026-02-03,3,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-02-03T12:00:00-05:00
+963,1,palpacion,2026-02-05,3,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2026-09-25""}",confirmado,,,,2,2026-02-05T12:00:00-05:00
+964,1,parto,2026-02-06,7,"{""resultado"":""vivo"",""cria_id"":105,""cria_numero"":""366"",""cria_sexo"":""M"",""peso_kg"":40.4}",confirmado,,,,3,2026-02-06T12:00:00-05:00
+965,1,traslado,2026-02-06,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-02-06T12:00:00-05:00
+966,1,pesaje,2026-02-06,5,"{""peso_kg"":364.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2026-02-06T12:00:00-05:00
+967,1,servicio,2026-02-06,5,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2026-02-06T12:00:00-05:00
+968,1,servicio,2026-02-07,3,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2026-02-07T12:00:00-05:00
+969,1,traslado,2026-02-08,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-02-08T12:00:00-05:00
+970,1,servicio,2026-02-08,4,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-02-08T12:00:00-05:00
+971,1,traslado,2026-02-09,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-02-09T12:00:00-05:00
+972,1,servicio,2026-02-10,4,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2026-02-10T12:00:00-05:00
+973,1,tratamiento,2026-02-10,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2026-02-10T12:00:00-05:00
+974,1,servicio,2026-02-11,4,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2026-02-11T12:00:00-05:00
+975,1,tratamiento,2026-02-11,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2026-02-11T12:00:00-05:00
+976,1,parto,2026-02-12,4,"{""resultado"":""aborto"",""meses_gestacion"":4.8}",confirmado,,,,2,2026-02-12T12:00:00-05:00
+977,1,destete,2026-02-12,5,"{""peso_kg"":85.0}",confirmado,,,,2,2026-02-12T12:00:00-05:00
+978,1,traslado,2026-02-12,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2026-02-12T12:00:00-05:00
+979,1,venta,2026-02-14,,"{""precio_cop"":250000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-02-14T12:00:00-05:00
+980,1,tratamiento,2026-02-15,4,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""posterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2026-02-21""}",confirmado,,,,2,2026-02-15T12:00:00-05:00
+981,1,traslado,2026-02-16,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-02-16T12:00:00-05:00
+982,1,pesaje,2026-02-17,5,"{""peso_kg"":330.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2026-02-17T12:00:00-05:00
+983,1,servicio,2026-02-17,5,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2026-02-17T12:00:00-05:00
+984,1,secado,2026-02-20,1,{},confirmado,,,,2,2026-02-20T12:00:00-05:00
+985,1,pesaje,2026-02-20,1,"{""peso_kg"":575.0}",confirmado,,,,2,2026-02-20T12:00:00-05:00
+986,1,traslado,2026-02-20,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-02-20T12:00:00-05:00
+987,1,palpacion,2026-02-20,5,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2026-10-05""}",confirmado,,,,2,2026-02-20T12:00:00-05:00
+988,1,servicio,2026-02-21,1,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-02-21T12:00:00-05:00
+989,1,traslado,2026-02-23,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-02-23T12:00:00-05:00
+990,1,traslado,2026-02-24,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-02-24T12:00:00-05:00
+991,1,servicio,2026-02-24,2,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2026-02-24T12:00:00-05:00
+992,1,palpacion,2026-02-27,2,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2026-10-18""}",confirmado,,,,2,2026-02-27T12:00:00-05:00
+993,1,tratamiento,2026-03-01,2,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""posterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2026-03-07""}",confirmado,,,,2,2026-03-01T12:00:00-05:00
+994,1,servicio,2026-03-01,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-03-01T12:00:00-05:00
+995,1,servicio,2026-03-01,2,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2026-03-01T12:00:00-05:00
+996,1,servicio,2026-03-02,2,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2026-03-02T12:00:00-05:00
+997,1,tratamiento,2026-03-03,,"{""producto_id"":4,""producto"":""Desparasitante (demo)"",""via"":""oral""}",confirmado,,,,2,2026-03-03T12:00:00-05:00
+998,1,traslado,2026-03-04,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-03-04T12:00:00-05:00
+999,1,traslado,2026-03-04,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-03-04T12:00:00-05:00
+1000,1,parto,2026-03-05,7,"{""resultado"":""vivo"",""cria_id"":106,""cria_numero"":""367"",""cria_sexo"":""H"",""peso_kg"":35.3}",confirmado,,,,3,2026-03-05T12:00:00-05:00
+1001,1,traslado,2026-03-05,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-03-05T12:00:00-05:00
+1002,1,tratamiento,2026-03-05,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2026-03-05T12:00:00-05:00
+1003,1,tratamiento,2026-03-05,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2026-03-05T12:00:00-05:00
+1004,1,servicio,2026-03-06,3,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2026-03-06T12:00:00-05:00
+1005,1,tratamiento,2026-03-06,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2026-03-06T12:00:00-05:00
+1006,1,traslado,2026-03-08,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-03-08T12:00:00-05:00
+1007,1,palpacion,2026-03-09,3,"{""resultado"":""preñada"",""meses_gestacion"":2.0,""fecha_probable_parto"":""2026-10-18""}",confirmado,,,,2,2026-03-09T12:00:00-05:00
+1008,1,servicio,2026-03-11,3,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-03-11T12:00:00-05:00
+1009,1,traslado,2026-03-12,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-03-12T12:00:00-05:00
+1010,1,venta,2026-03-12,,"{""precio_cop"":2500000,""comprador"":""Frigorífico (demo)"",""motivo"":""descarte""}",confirmado,,,,1,2026-03-12T12:00:00-05:00
+1011,1,servicio,2026-03-13,4,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2026-03-13T12:00:00-05:00
+1012,1,parto,2026-03-14,7,"{""resultado"":""vivo"",""cria_id"":107,""cria_numero"":""368"",""cria_sexo"":""H"",""peso_kg"":38.3}",confirmado,,,,3,2026-03-14T12:00:00-05:00
+1013,1,traslado,2026-03-14,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-03-14T12:00:00-05:00
+1014,1,secado,2026-03-17,4,{},confirmado,,,,2,2026-03-17T12:00:00-05:00
+1015,1,pesaje,2026-03-17,4,"{""peso_kg"":471.0}",confirmado,,,,2,2026-03-17T12:00:00-05:00
+1016,1,traslado,2026-03-17,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-03-17T12:00:00-05:00
+1017,1,traslado,2026-03-17,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-03-17T12:00:00-05:00
+1018,1,servicio,2026-03-19,4,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2026-03-19T12:00:00-05:00
+1019,1,traslado,2026-03-20,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-03-20T12:00:00-05:00
+1020,1,servicio,2026-03-20,1,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2026-03-20T12:00:00-05:00
+1021,1,servicio,2026-03-22,1,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-03-22T12:00:00-05:00
+1022,1,servicio,2026-03-22,1,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-03-22T12:00:00-05:00
+1023,1,tratamiento,2026-03-23,1,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""posterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2026-03-29""}",confirmado,,,,2,2026-03-23T12:00:00-05:00
+1024,1,secado,2026-03-23,1,{},confirmado,,,,2,2026-03-23T12:00:00-05:00
+1025,1,pesaje,2026-03-23,1,"{""peso_kg"":631.0}",confirmado,,,,2,2026-03-23T12:00:00-05:00
+1026,1,traslado,2026-03-23,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-03-23T12:00:00-05:00
+1027,1,palpacion,2026-03-25,1,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2026-11-17""}",confirmado,,,,2,2026-03-25T12:00:00-05:00
+1028,1,traslado,2026-03-28,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-03-28T12:00:00-05:00
+1029,1,traslado,2026-04-05,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-04-05T12:00:00-05:00
+1030,1,parto,2026-04-05,3,"{""resultado"":""aborto"",""meses_gestacion"":6.3}",confirmado,,,,2,2026-04-05T12:00:00-05:00
+1031,1,palpacion,2026-04-05,5,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2026-11-16""}",confirmado,,,,2,2026-04-05T12:00:00-05:00
+1032,1,palpacion,2026-04-06,3,"{""resultado"":""vacía""}",confirmado,,,,2,2026-04-06T12:00:00-05:00
+1033,1,palpacion,2026-04-06,3,"{""resultado"":""vacía""}",confirmado,,,,2,2026-04-06T12:00:00-05:00
+1034,1,secado,2026-04-06,3,{},confirmado,,,,2,2026-04-06T12:00:00-05:00
+1035,1,pesaje,2026-04-06,3,"{""peso_kg"":615.0}",confirmado,,,,2,2026-04-06T12:00:00-05:00
+1036,1,traslado,2026-04-06,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-04-06T12:00:00-05:00
+1037,1,palpacion,2026-04-07,5,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2026-11-27""}",confirmado,,,,2,2026-04-07T12:00:00-05:00
+1038,1,servicio,2026-04-09,3,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2026-04-09T12:00:00-05:00
+1039,1,palpacion,2026-04-09,3,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2026-11-21""}",confirmado,,,,2,2026-04-09T12:00:00-05:00
+1040,1,traslado,2026-04-11,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-04-11T12:00:00-05:00
+1041,1,servicio,2026-04-11,3,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-04-11T12:00:00-05:00
+1042,1,palpacion,2026-04-12,3,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2026-12-04""}",confirmado,,,,2,2026-04-12T12:00:00-05:00
+1043,1,traslado,2026-04-13,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-04-13T12:00:00-05:00
+1044,1,servicio,2026-04-18,4,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-04-18T12:00:00-05:00
+1045,1,palpacion,2026-04-19,4,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2026-12-01""}",confirmado,,,,2,2026-04-19T12:00:00-05:00
+1046,1,traslado,2026-04-21,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-04-21T12:00:00-05:00
+1047,1,parto,2026-04-21,7,"{""resultado"":""vivo"",""cria_id"":108,""cria_numero"":""369"",""cria_sexo"":""H"",""peso_kg"":34.7}",confirmado,,,,3,2026-04-21T12:00:00-05:00
+1048,1,traslado,2026-04-21,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-04-21T12:00:00-05:00
+1049,1,traslado,2026-04-24,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-04-24T12:00:00-05:00
+1050,1,venta,2026-04-26,,"{""precio_cop"":3300000,""comprador"":""Frigorífico (demo)"",""motivo"":""descarte""}",confirmado,,,,1,2026-04-26T12:00:00-05:00
+1051,1,palpacion,2026-04-28,1,"{""resultado"":""vacía""}",confirmado,,,,2,2026-04-28T12:00:00-05:00
+1052,1,traslado,2026-04-29,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-04-29T12:00:00-05:00
+1053,1,servicio,2026-04-29,2,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-04-29T12:00:00-05:00
+1054,1,palpacion,2026-04-30,2,"{""resultado"":""preñada"",""meses_gestacion"":2.0,""fecha_probable_parto"":""2026-12-09""}",confirmado,,,,2,2026-04-30T12:00:00-05:00
+1055,1,servicio,2026-05-02,2,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2026-05-02T12:00:00-05:00
+1056,1,servicio,2026-05-05,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-05-05T12:00:00-05:00
+1057,1,traslado,2026-05-06,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-05-06T12:00:00-05:00
+1058,1,traslado,2026-05-07,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-05-07T12:00:00-05:00
+1059,1,palpacion,2026-05-07,3,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2026-12-21""}",confirmado,,,,2,2026-05-07T12:00:00-05:00
+1060,1,palpacion,2026-05-08,3,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2026-12-19""}",confirmado,,,,2,2026-05-08T12:00:00-05:00
+1061,1,palpacion,2026-05-09,3,"{""resultado"":""vacía""}",confirmado,,,,2,2026-05-09T12:00:00-05:00
+1062,1,servicio,2026-05-10,3,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-05-10T12:00:00-05:00
+1063,1,servicio,2026-05-10,3,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2026-05-10T12:00:00-05:00
+1064,1,servicio,2026-05-10,3,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2026-05-10T12:00:00-05:00
+1065,1,secado,2026-05-11,3,{},confirmado,,,,2,2026-05-11T12:00:00-05:00
+1066,1,pesaje,2026-05-11,3,"{""peso_kg"":561.0}",confirmado,,,,2,2026-05-11T12:00:00-05:00
+1067,1,traslado,2026-05-11,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-05-11T12:00:00-05:00
+1068,1,tratamiento,2026-05-12,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2026-05-12T12:00:00-05:00
+1069,1,traslado,2026-05-12,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-05-12T12:00:00-05:00
+1070,1,tratamiento,2026-05-13,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2026-05-13T12:00:00-05:00
+1071,1,traslado,2026-05-15,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-05-15T12:00:00-05:00
+1072,1,venta,2026-05-15,,"{""precio_cop"":3300000,""comprador"":""Frigorífico (demo)"",""motivo"":""descarte""}",confirmado,,,,1,2026-05-15T12:00:00-05:00
+1073,1,parto,2026-05-16,7,"{""resultado"":""vivo"",""cria_id"":109,""cria_numero"":""370"",""cria_sexo"":""H"",""peso_kg"":35.5}",confirmado,,,,3,2026-05-16T12:00:00-05:00
+1074,1,traslado,2026-05-16,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-05-16T12:00:00-05:00
+1075,1,palpacion,2026-05-16,4,"{""resultado"":""preñada"",""meses_gestacion"":1.9,""fecha_probable_parto"":""2026-12-28""}",confirmado,,,,2,2026-05-16T12:00:00-05:00
+1076,1,traslado,2026-05-19,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-05-19T12:00:00-05:00
+1077,1,venta,2026-05-20,,"{""precio_cop"":790000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-05-20T12:00:00-05:00
+1078,1,parto,2026-05-22,7,"{""resultado"":""vivo"",""cria_id"":110,""cria_numero"":""371"",""cria_sexo"":""M"",""peso_kg"":31.1}",confirmado,,,,3,2026-05-22T12:00:00-05:00
+1079,1,traslado,2026-05-22,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-05-22T12:00:00-05:00
+1080,1,traslado,2026-05-23,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-05-23T12:00:00-05:00
+1081,1,servicio,2026-05-23,1,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2026-05-23T12:00:00-05:00
+1082,1,traslado,2026-05-23,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-05-23T12:00:00-05:00
+1083,1,traslado,2026-05-25,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-05-25T12:00:00-05:00
+1084,1,traslado,2026-05-26,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-05-26T12:00:00-05:00
+1085,1,venta,2026-05-27,,"{""precio_cop"":220000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-05-27T12:00:00-05:00
+1086,1,servicio,2026-05-29,1,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2026-05-29T12:00:00-05:00
+1087,1,traslado,2026-05-31,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-05-31T12:00:00-05:00
+1088,1,servicio,2026-06-02,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-06-02T12:00:00-05:00
+1089,1,parto,2026-06-02,7,"{""resultado"":""vivo"",""cria_id"":111,""cria_numero"":""372"",""cria_sexo"":""M"",""peso_kg"":34.5}",confirmado,,,,3,2026-06-02T12:00:00-05:00
+1090,1,traslado,2026-06-02,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-06-02T12:00:00-05:00
+1091,1,destete,2026-06-03,5,"{""peso_kg"":99.0}",confirmado,,,,2,2026-06-03T12:00:00-05:00
+1092,1,traslado,2026-06-03,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2026-06-03T12:00:00-05:00
+1093,1,parto,2026-06-05,7,"{""resultado"":""vivo"",""cria_id"":112,""cria_numero"":""373"",""cria_sexo"":""H"",""peso_kg"":30.3}",confirmado,,,,3,2026-06-05T12:00:00-05:00
+1094,1,traslado,2026-06-05,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-06-05T12:00:00-05:00
+1095,1,servicio,2026-06-05,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-06-05T12:00:00-05:00
+1096,1,traslado,2026-06-05,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-06-05T12:00:00-05:00
+1097,1,palpacion,2026-06-07,2,"{""resultado"":""vacía""}",confirmado,,,,2,2026-06-07T12:00:00-05:00
+1098,1,venta,2026-06-07,,"{""precio_cop"":200000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-06-07T12:00:00-05:00
+1099,1,traslado,2026-06-08,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-06-08T12:00:00-05:00
+1100,1,traslado,2026-06-08,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-06-08T12:00:00-05:00
+1101,1,secado,2026-06-10,3,{},confirmado,,,,2,2026-06-10T12:00:00-05:00
+1102,1,pesaje,2026-06-10,3,"{""peso_kg"":598.0}",confirmado,,,,2,2026-06-10T12:00:00-05:00
+1103,1,traslado,2026-06-10,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-06-10T12:00:00-05:00
+1104,1,destete,2026-06-12,5,"{""peso_kg"":94.0}",confirmado,,,,2,2026-06-12T12:00:00-05:00
+1105,1,traslado,2026-06-12,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2026-06-12T12:00:00-05:00
+1106,1,traslado,2026-06-16,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-06-16T12:00:00-05:00
+1107,1,secado,2026-06-19,4,{},confirmado,,,,2,2026-06-19T12:00:00-05:00
+1108,1,pesaje,2026-06-19,4,"{""peso_kg"":356.0}",confirmado,,,,2,2026-06-19T12:00:00-05:00
+1109,1,traslado,2026-06-19,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-06-19T12:00:00-05:00
+1110,1,palpacion,2026-06-19,4,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2027-02-12""}",confirmado,,,,2,2026-06-19T12:00:00-05:00
+1111,1,venta,2026-06-20,,"{""precio_cop"":780000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-06-20T12:00:00-05:00
+1112,1,secado,2026-06-21,4,{},confirmado,,,,2,2026-06-21T12:00:00-05:00
+1113,1,pesaje,2026-06-21,4,"{""peso_kg"":532.0}",confirmado,,,,2,2026-06-21T12:00:00-05:00
+1114,1,traslado,2026-06-21,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-06-21T12:00:00-05:00
+1115,1,servicio,2026-06-23,4,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-06-23T12:00:00-05:00
+1116,1,traslado,2026-06-23,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-06-23T12:00:00-05:00
+1117,1,tratamiento,2026-06-23,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2026-06-23T12:00:00-05:00
+1118,1,traslado,2026-06-24,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-06-24T12:00:00-05:00
+1119,1,servicio,2026-06-25,1,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2026-06-25T12:00:00-05:00
+1120,1,palpacion,2026-06-25,1,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2027-02-17""}",confirmado,,,,2,2026-06-25T12:00:00-05:00
+1121,1,secado,2026-06-27,1,{},confirmado,,,,2,2026-06-27T12:00:00-05:00
+1122,1,pesaje,2026-06-27,1,"{""peso_kg"":412.0}",confirmado,,,,2,2026-06-27T12:00:00-05:00
+1123,1,traslado,2026-06-27,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-06-27T12:00:00-05:00
+1124,1,traslado,2026-06-30,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-06-30T12:00:00-05:00
+1125,1,traslado,2026-07-02,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-07-02T12:00:00-05:00
+1126,1,pesaje,2026-07-02,5,"{""peso_kg"":392.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2026-07-02T12:00:00-05:00
+1127,1,servicio,2026-07-02,5,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-07-02T12:00:00-05:00
+1128,1,parto,2026-07-03,7,"{""resultado"":""vivo"",""cria_id"":113,""cria_numero"":""374"",""cria_sexo"":""H"",""peso_kg"":33.0}",confirmado,,,,3,2026-07-03T12:00:00-05:00
+1129,1,traslado,2026-07-03,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-07-03T12:00:00-05:00
+1130,1,servicio,2026-07-05,2,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-07-05T12:00:00-05:00
+1131,1,palpacion,2026-07-06,2,"{""resultado"":""vacía""}",confirmado,,,,2,2026-07-06T12:00:00-05:00
+1132,1,traslado,2026-07-06,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-07-06T12:00:00-05:00
+1133,1,traslado,2026-07-10,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-07-10T12:00:00-05:00
+1134,1,parto,2026-07-10,7,"{""resultado"":""vivo"",""cria_id"":114,""cria_numero"":""375"",""cria_sexo"":""M"",""peso_kg"":39.6}",confirmado,,,,3,2026-07-10T12:00:00-05:00
+1135,1,traslado,2026-07-10,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-07-10T12:00:00-05:00
+1136,1,traslado,2026-07-13,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-07-13T12:00:00-05:00
+1137,1,servicio,2026-07-14,3,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-07-14T12:00:00-05:00
+1138,1,servicio,2026-07-14,3,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2026-07-14T12:00:00-05:00
+1139,1,servicio,2026-07-15,3,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-07-15T12:00:00-05:00
+1140,1,palpacion,2026-07-15,3,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2027-03-08""}",confirmado,,,,2,2026-07-15T12:00:00-05:00
+1141,1,secado,2026-07-16,3,{},confirmado,,,,2,2026-07-16T12:00:00-05:00
+1142,1,pesaje,2026-07-16,3,"{""peso_kg"":613.0}",confirmado,,,,2,2026-07-16T12:00:00-05:00
+1143,1,traslado,2026-07-16,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-07-16T12:00:00-05:00
+1144,1,tratamiento,2026-07-16,3,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""posterior derecho"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2026-07-22""}",confirmado,,,,2,2026-07-16T12:00:00-05:00
+1145,1,traslado,2026-07-18,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-07-18T12:00:00-05:00
+1146,1,venta,2026-07-19,,"{""precio_cop"":160000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-07-19T12:00:00-05:00
+1147,1,traslado,2026-07-26,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-07-26T12:00:00-05:00
+1148,1,palpacion,2026-07-28,1,"{""resultado"":""vacía""}",confirmado,,,,2,2026-07-28T12:00:00-05:00
+1149,1,traslado,2026-07-30,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-07-30T12:00:00-05:00
+1150,1,muerte,2026-07-30,1,"{""causa"":""accidente""}",confirmado,,,,2,2026-07-30T12:00:00-05:00
+1151,1,tratamiento,2026-07-31,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2026-07-31T12:00:00-05:00
+1152,1,secado,2026-08-01,1,{},confirmado,,,,2,2026-08-01T12:00:00-05:00
+1153,1,pesaje,2026-08-01,1,"{""peso_kg"":594.0}",confirmado,,,,2,2026-08-01T12:00:00-05:00
+1154,1,traslado,2026-08-01,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-08-01T12:00:00-05:00
+1155,1,servicio,2026-08-02,1,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2026-08-02T12:00:00-05:00
+1156,1,traslado,2026-08-03,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-08-03T12:00:00-05:00
+1157,1,servicio,2026-08-04,2,"{""tipo"":""IA"",""pajilla"":""JER-0144""}",confirmado,,,,2,2026-08-04T12:00:00-05:00
+1158,1,servicio,2026-08-06,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-08-06T12:00:00-05:00
+1159,1,traslado,2026-08-08,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-08-08T12:00:00-05:00
+1160,1,servicio,2026-08-08,2,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2026-08-08T12:00:00-05:00
+1161,1,parto,2026-08-09,7,"{""resultado"":""vivo"",""cria_id"":115,""cria_numero"":""376"",""cria_sexo"":""H"",""peso_kg"":39.1}",confirmado,,,,3,2026-08-09T12:00:00-05:00
+1162,1,traslado,2026-08-09,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-08-09T12:00:00-05:00
+1163,1,traslado,2026-08-10,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-08-10T12:00:00-05:00
+1164,1,pesaje,2026-08-10,5,"{""peso_kg"":316.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2026-08-10T12:00:00-05:00
+1165,1,servicio,2026-08-10,5,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2026-08-10T12:00:00-05:00
+1166,1,venta,2026-08-10,,"{""precio_cop"":710000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-08-10T12:00:00-05:00
+1167,1,traslado,2026-08-11,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-08-11T12:00:00-05:00
+1168,1,traslado,2026-08-12,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-08-12T12:00:00-05:00
+1169,1,traslado,2026-08-16,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-08-16T12:00:00-05:00
+1170,1,parto,2026-08-18,7,"{""resultado"":""vivo"",""cria_id"":116,""cria_numero"":""377"",""cria_sexo"":""M"",""peso_kg"":40.9}",confirmado,,,,3,2026-08-18T12:00:00-05:00
+1171,1,traslado,2026-08-18,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-08-18T12:00:00-05:00
+1172,1,palpacion,2026-08-18,5,"{""resultado"":""preñada"",""meses_gestacion"":1.5,""fecha_probable_parto"":""2027-04-11""}",confirmado,,,,2,2026-08-18T12:00:00-05:00
+1173,1,traslado,2026-08-19,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-08-19T12:00:00-05:00
+1174,1,parto,2026-08-20,7,"{""resultado"":""vivo"",""cria_id"":117,""cria_numero"":""378"",""cria_sexo"":""M"",""peso_kg"":37.1}",confirmado,,,,3,2026-08-20T12:00:00-05:00
+1175,1,traslado,2026-08-20,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-08-20T12:00:00-05:00
+1176,1,secado,2026-08-21,4,{},confirmado,,,,2,2026-08-21T12:00:00-05:00
+1177,1,pesaje,2026-08-21,4,"{""peso_kg"":600.0}",confirmado,,,,2,2026-08-21T12:00:00-05:00
+1178,1,traslado,2026-08-21,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-08-21T12:00:00-05:00
+1179,1,traslado,2026-08-21,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-08-21T12:00:00-05:00
+1180,1,traslado,2026-08-23,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-08-23T12:00:00-05:00
+1181,1,servicio,2026-08-23,4,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2026-08-23T12:00:00-05:00
+1182,1,secado,2026-08-23,4,{},confirmado,,,,2,2026-08-23T12:00:00-05:00
+1183,1,pesaje,2026-08-23,4,"{""peso_kg"":563.0}",confirmado,,,,2,2026-08-23T12:00:00-05:00
+1184,1,traslado,2026-08-23,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-08-23T12:00:00-05:00
+1185,1,palpacion,2026-08-23,4,"{""resultado"":""preñada"",""meses_gestacion"":1.6,""fecha_probable_parto"":""2027-04-14""}",confirmado,,,,2,2026-08-23T12:00:00-05:00
+1186,1,servicio,2026-08-24,4,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-08-24T12:00:00-05:00
+1187,1,parto,2026-08-26,7,"{""resultado"":""vivo"",""cria_id"":118,""cria_numero"":""379"",""cria_sexo"":""M"",""peso_kg"":36.7}",confirmado,,,,3,2026-08-26T12:00:00-05:00
+1188,1,traslado,2026-08-26,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-08-26T12:00:00-05:00
+1189,1,servicio,2026-08-26,4,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2026-08-26T12:00:00-05:00
+1190,1,venta,2026-08-26,,"{""precio_cop"":350000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-08-26T12:00:00-05:00
+1191,1,traslado,2026-08-27,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-08-27T12:00:00-05:00
+1192,1,venta,2026-08-27,,"{""precio_cop"":350000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-08-27T12:00:00-05:00
+1193,1,servicio,2026-08-28,1,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-08-28T12:00:00-05:00
+1194,1,traslado,2026-08-29,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-08-29T12:00:00-05:00
+1195,1,pesaje,2026-08-29,5,"{""peso_kg"":348.0,""motivo"":""previo al primer servicio""}",confirmado,,,,2,2026-08-29T12:00:00-05:00
+1196,1,servicio,2026-08-29,5,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-08-29T12:00:00-05:00
+1197,1,servicio,2026-08-30,1,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-08-30T12:00:00-05:00
+1198,1,servicio,2026-08-30,1,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2026-08-30T12:00:00-05:00
+1199,1,servicio,2026-09-01,5,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-09-01T12:00:00-05:00
+1200,1,destete,2026-09-03,5,"{""peso_kg"":105.0}",confirmado,,,,2,2026-09-03T12:00:00-05:00
+1201,1,traslado,2026-09-03,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2026-09-03T12:00:00-05:00
+1202,1,traslado,2026-09-04,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-09-04T12:00:00-05:00
+1203,1,traslado,2026-09-04,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-09-04T12:00:00-05:00
+1204,1,venta,2026-09-04,,"{""precio_cop"":150000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-09-04T12:00:00-05:00
+1205,1,tratamiento,2026-09-06,2,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""posterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2026-09-12""}",confirmado,,,,2,2026-09-06T12:00:00-05:00
+1206,1,palpacion,2026-09-07,2,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2027-04-24""}",confirmado,,,,2,2026-09-07T12:00:00-05:00
+1207,1,tratamiento,2026-09-08,,"{""producto_id"":4,""producto"":""Desparasitante (demo)"",""via"":""oral""}",confirmado,,,,2,2026-09-08T12:00:00-05:00
+1208,1,traslado,2026-09-12,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-09-12T12:00:00-05:00
+1209,1,servicio,2026-09-12,3,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2026-09-12T12:00:00-05:00
+1210,1,servicio,2026-09-12,3,"{""tipo"":""IA"",""pajilla"":""HOL-0877""}",confirmado,,,,2,2026-09-12T12:00:00-05:00
+1211,1,parto,2026-09-14,7,"{""resultado"":""vivo"",""cria_id"":119,""cria_numero"":""380"",""cria_sexo"":""M"",""peso_kg"":42.1}",confirmado,,,,3,2026-09-14T12:00:00-05:00
+1212,1,traslado,2026-09-14,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-09-14T12:00:00-05:00
+1213,1,tratamiento,2026-09-15,,"{""producto_id"":2,""producto"":""Vacuna brucelosis (demo)"",""via"":""subcutánea""}",confirmado,,,,2,2026-09-15T12:00:00-05:00
+1214,1,traslado,2026-09-17,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-09-17T12:00:00-05:00
+1215,1,servicio,2026-09-18,3,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-09-18T12:00:00-05:00
+1216,1,servicio,2026-09-18,3,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2026-09-18T12:00:00-05:00
+1217,1,servicio,2026-09-18,3,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-09-18T12:00:00-05:00
+1218,1,secado,2026-09-19,3,{},confirmado,,,,2,2026-09-19T12:00:00-05:00
+1219,1,pesaje,2026-09-19,3,"{""peso_kg"":631.0}",confirmado,,,,2,2026-09-19T12:00:00-05:00
+1220,1,traslado,2026-09-19,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-09-19T12:00:00-05:00
+1221,1,traslado,2026-09-20,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-09-20T12:00:00-05:00
+1222,1,traslado,2026-09-20,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-09-20T12:00:00-05:00
+1223,1,venta,2026-09-20,,"{""precio_cop"":340000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-09-20T12:00:00-05:00
+1224,1,palpacion,2026-09-23,4,"{""resultado"":""vacía""}",confirmado,,,,2,2026-09-23T12:00:00-05:00
+1225,1,traslado,2026-09-23,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-09-23T12:00:00-05:00
+1226,1,palpacion,2026-09-27,4,"{""resultado"":""preñada"",""meses_gestacion"":1.8,""fecha_probable_parto"":""2027-05-14""}",confirmado,,,,2,2026-09-27T12:00:00-05:00
+1227,1,secado,2026-09-27,4,{},confirmado,,,,2,2026-09-27T12:00:00-05:00
+1228,1,pesaje,2026-09-27,4,"{""peso_kg"":646.0}",confirmado,,,,2,2026-09-27T12:00:00-05:00
+1229,1,traslado,2026-09-27,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-09-27T12:00:00-05:00
+1230,1,traslado,2026-09-28,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-09-28T12:00:00-05:00
+1231,1,tratamiento,2026-09-28,1,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior izquierdo"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2026-10-04""}",confirmado,,,,2,2026-09-28T12:00:00-05:00
+1232,1,palpacion,2026-09-28,1,"{""resultado"":""vacía""}",confirmado,,,,2,2026-09-28T12:00:00-05:00
+1233,1,secado,2026-09-28,1,{},confirmado,,,,2,2026-09-28T12:00:00-05:00
+1234,1,pesaje,2026-09-28,1,"{""peso_kg"":528.0}",confirmado,,,,2,2026-09-28T12:00:00-05:00
+1235,1,traslado,2026-09-28,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-09-28T12:00:00-05:00
+1236,1,palpacion,2026-09-30,1,"{""resultado"":""vacía""}",confirmado,,,,2,2026-09-30T12:00:00-05:00
+1237,1,parto,2026-09-30,7,"{""resultado"":""vivo"",""cria_id"":120,""cria_numero"":""381"",""cria_sexo"":""H"",""peso_kg"":30.5}",confirmado,,,,3,2026-09-30T12:00:00-05:00
+1238,1,traslado,2026-09-30,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-09-30T12:00:00-05:00
+1239,1,servicio,2026-10-03,1,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-10-03T12:00:00-05:00
+1240,1,traslado,2026-10-03,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-10-03T12:00:00-05:00
+1241,1,parto,2026-10-03,7,"{""resultado"":""vivo"",""cria_id"":121,""cria_numero"":""382"",""cria_sexo"":""M"",""peso_kg"":35.7}",confirmado,,,,3,2026-10-03T12:00:00-05:00
+1242,1,traslado,2026-10-03,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-10-03T12:00:00-05:00
+1243,1,secado,2026-10-04,1,{},confirmado,,,,2,2026-10-04T12:00:00-05:00
+1244,1,pesaje,2026-10-04,1,"{""peso_kg"":614.0}",confirmado,,,,2,2026-10-04T12:00:00-05:00
+1245,1,traslado,2026-10-04,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-10-04T12:00:00-05:00
+1246,1,servicio,2026-10-04,1,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2026-10-04T12:00:00-05:00
+1247,1,servicio,2026-10-05,1,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-10-05T12:00:00-05:00
+1248,1,traslado,2026-10-06,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-10-06T12:00:00-05:00
+1249,1,traslado,2026-10-06,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-10-06T12:00:00-05:00
+1250,1,servicio,2026-10-07,2,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2026-10-07T12:00:00-05:00
+1251,1,servicio,2026-10-08,2,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2026-10-08T12:00:00-05:00
+1252,1,servicio,2026-10-09,2,"{""tipo"":""IA"",""pajilla"":""HOL-1203""}",confirmado,,,,2,2026-10-09T12:00:00-05:00
+1253,1,traslado,2026-10-10,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-10-10T12:00:00-05:00
+1254,1,servicio,2026-10-10,2,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-10-10T12:00:00-05:00
+1255,1,secado,2026-10-10,2,{},confirmado,,,,2,2026-10-10T12:00:00-05:00
+1256,1,pesaje,2026-10-10,2,"{""peso_kg"":587.0}",confirmado,,,,2,2026-10-10T12:00:00-05:00
+1257,1,traslado,2026-10-10,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-10-10T12:00:00-05:00
+1258,1,traslado,2026-10-12,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-10-12T12:00:00-05:00
+1259,1,venta,2026-10-13,,"{""precio_cop"":330000,""comprador"":""Comerciante de ganado""}",confirmado,,,,1,2026-10-13T12:00:00-05:00
+1260,1,traslado,2026-10-14,3,"{""potrero_destino"":""Potrero 3""}",confirmado,,,,3,2026-10-14T12:00:00-05:00
+1261,1,secado,2026-10-16,3,{},confirmado,,,,2,2026-10-16T12:00:00-05:00
+1262,1,pesaje,2026-10-16,3,"{""peso_kg"":375.0}",confirmado,,,,2,2026-10-16T12:00:00-05:00
+1263,1,traslado,2026-10-16,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-10-16T12:00:00-05:00
+1264,1,palpacion,2026-10-17,3,"{""resultado"":""vacía""}",confirmado,,,,2,2026-10-17T12:00:00-05:00
+1265,1,venta,2026-10-18,,"{""precio_cop"":3000000,""comprador"":""Frigorífico (demo)"",""motivo"":""descarte""}",confirmado,,,,1,2026-10-18T12:00:00-05:00
+1266,1,secado,2026-10-19,3,{},confirmado,,,,2,2026-10-19T12:00:00-05:00
+1267,1,pesaje,2026-10-19,3,"{""peso_kg"":592.0}",confirmado,,,,2,2026-10-19T12:00:00-05:00
+1268,1,traslado,2026-10-19,6,"{""potrero_destino"":""Lote secas""}",confirmado,,,,3,2026-10-19T12:00:00-05:00
+1269,1,parto,2026-10-20,7,"{""resultado"":""vivo"",""cria_id"":122,""cria_numero"":""383"",""cria_sexo"":""H"",""peso_kg"":37.8}",confirmado,,,,3,2026-10-20T12:00:00-05:00
+1270,1,traslado,2026-10-20,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-10-20T12:00:00-05:00
+1271,1,palpacion,2026-10-20,5,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2027-06-08""}",confirmado,,,,2,2026-10-20T12:00:00-05:00
+1272,1,traslado,2026-10-22,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-10-22T12:00:00-05:00
+1273,1,parto,2026-10-22,7,"{""resultado"":""vivo"",""cria_id"":123,""cria_numero"":""384"",""cria_sexo"":""H"",""peso_kg"":32.3}",confirmado,,,,3,2026-10-22T12:00:00-05:00
+1274,1,traslado,2026-10-22,8,"{""potrero_destino"":""Lote crías""}",confirmado,,,,3,2026-10-22T12:00:00-05:00
+1275,1,traslado,2026-10-23,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-10-23T12:00:00-05:00
+1276,1,palpacion,2026-10-23,5,"{""resultado"":""preñada"",""meses_gestacion"":1.7,""fecha_probable_parto"":""2027-06-11""}",confirmado,,,,2,2026-10-23T12:00:00-05:00
+1277,1,servicio,2026-10-24,4,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2026-10-24T12:00:00-05:00
+1278,1,traslado,2026-10-25,4,"{""potrero_destino"":""Potrero 4""}",confirmado,,,,3,2026-10-25T12:00:00-05:00
+1279,1,servicio,2026-10-26,4,"{""tipo"":""IA"",""pajilla"":""NOR-0330""}",confirmado,,,,2,2026-10-26T12:00:00-05:00
+1280,1,servicio,2026-10-29,4,"{""tipo"":""IA"",""pajilla"":""NOR-0215""}",confirmado,,,,2,2026-10-29T12:00:00-05:00
+1281,1,traslado,2026-10-30,1,"{""potrero_destino"":""Potrero 1""}",confirmado,,,,3,2026-10-30T12:00:00-05:00
+1282,1,servicio,2026-10-31,1,"{""tipo"":""IA"",""pajilla"":""HOL-0412""}",confirmado,,,,2,2026-10-31T12:00:00-05:00
+1283,1,servicio,2026-11-01,1,"{""tipo"":""IA"",""pajilla"":""JER-0101""}",confirmado,,,,2,2026-11-01T12:00:00-05:00
+1284,1,tratamiento,2026-11-03,,"{""producto_id"":1,""producto"":""Vacuna aftosa (demo)"",""dosis"":""2 ml"",""via"":""subcutánea""}",confirmado,,,,2,2026-11-03T12:00:00-05:00
+1285,1,traslado,2026-11-03,7,"{""potrero_destino"":""Potrero parto""}",confirmado,,,,3,2026-11-03T12:00:00-05:00
+1286,1,tratamiento,2026-11-05,1,"{""producto_id"":3,""producto"":""Antibiótico intramamario (demo)"",""diagnostico"":""mastitis"",""cuarto"":""anterior derecho"",""via"":""intramamaria"",""dias_tratamiento"":3,""retiro_leche_hasta"":""2026-11-11""}",confirmado,,,,2,2026-11-05T12:00:00-05:00
+1287,1,traslado,2026-11-07,2,"{""potrero_destino"":""Potrero 2""}",confirmado,,,,3,2026-11-07T12:00:00-05:00
+1288,1,servicio,2026-11-07,2,"{""tipo"":""monta"",""toro_id"":1,""toro"":""901""}",confirmado,,,,2,2026-11-07T12:00:00-05:00
+1289,1,destete,2026-11-07,5,"{""peso_kg"":103.0}",confirmado,,,,2,2026-11-07T12:00:00-05:00
+1290,1,traslado,2026-11-07,5,"{""potrero_destino"":""Potrero 5""}",confirmado,,,,3,2026-11-07T12:00:00-05:00
+1291,1,pesaje,2026-11-07,2,"{""peso_kg"":4120.0,""alerta"":""fuera de rango; confirmar con el usuario""}",pendiente,,,,3,2026-11-07T12:00:00-05:00

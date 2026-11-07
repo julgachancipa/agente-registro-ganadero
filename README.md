@@ -21,7 +21,12 @@ Agente conversacional (WhatsApp + voz) para llevar los **registros e inventario 
 │   ├── glosario.md           # Vocabulario ganadero colombiano para el prompt
 │   └── roadmap.md            # Fases del proyecto
 ├── db/
-│   └── schema.sql            # Esquema Postgres inicial
+│   ├── schema.sql            # Esquema Postgres (producción)
+│   └── schema_sqlite.sql     # Esquema SQLite + vistas de estado (demo)
+├── data/demo/                # CSV con datos dummy de una finca lechera (3 años)
+├── scripts/
+│   ├── generar_demo.py       # Genera los CSV (semilla fija)
+│   └── cargar_demo.py        # Crea db/demo.db desde los CSV
 ├── src/agente/
 │   ├── herramientas.py       # Definición de herramientas (tool use)
 │   └── validaciones.py       # Reglas de negocio
@@ -37,4 +42,13 @@ WhatsApp Cloud API → webhook (FastAPI) → transcripción de voz → agente co
 
 ## Estado
 
-Fase 0: diseño. Ver [`docs/roadmap.md`](docs/roadmap.md).
+Fase 0: diseño y datos de demo. Ver [`docs/roadmap.md`](docs/roadmap.md).
+
+## Probar los datos de demo
+
+```bash
+python scripts/cargar_demo.py          # crea db/demo.db a partir de data/demo/*.csv
+sqlite3 db/demo.db "SELECT numero, nombre, estado_productivo, dias_en_leche FROM estado_animal LIMIT 5;"
+```
+
+Detalles de los datos y de los casos de prueba en [`docs/datos-demo.md`](docs/datos-demo.md).

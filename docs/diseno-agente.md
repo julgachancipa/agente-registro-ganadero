@@ -50,7 +50,7 @@ El problema más difícil. Un mismo animal puede ser "la 214", "la Mona", "la hi
 - `registrar_traslado(animales[] | grupo, potrero_destino, fecha)`
 - `registrar_venta(animales[], fecha, comprador?, precio?, peso?)`
 - `registrar_compra(...)` / `registrar_muerte(animal, fecha, causa?)`
-- `registrar_produccion_leche(fecha, litros, animal?)`
+- `registrar_produccion_leche(fecha, ordeno: manana|tarde, registros[{animal, litros}])`: va a la tabla `produccion_leche`, no al log de eventos; se confirma en bloque ("Ordeño de la mañana: 214 → 12 L, 230 → 9 L. ¿Confirmo?")
 - `anular_evento(evento_id, motivo)`: las correcciones anulan y rehacen, nunca editan en silencio.
 
 ### Lectura (consultas predefinidas, sin SQL libre)
@@ -60,6 +60,9 @@ El problema más difícil. Un mismo animal puede ser "la 214", "la Mona", "la hi
 - `proximas_a_parir(dias)`
 - `pendientes_vacuna(producto)`
 - `inventario_por_categoria()`: conteo para ciclos de vacunación del ICA
+- `produccion_animal(animal, desde, hasta)`: litros por día y por ordeño de una vaca
+- `produccion_finca(desde, hasta)`: litros diarios de la finca y cuánto fue al tanque
+- `leche_en_retiro()`: animales cuya leche va a descarte y hasta cuándo
 - `exportar(formato: csv|xlsx, rango?)`
 
 ## Mensajes con varios eventos

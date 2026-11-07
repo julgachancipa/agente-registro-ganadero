@@ -67,8 +67,7 @@ CREATE TABLE eventos (
     finca_id     BIGINT NOT NULL REFERENCES fincas(id),
     tipo         TEXT NOT NULL CHECK (tipo IN (
                     'parto', 'servicio', 'palpacion', 'secado', 'destete', 'pesaje',
-                    'tratamiento', 'traslado', 'venta', 'compra', 'muerte',
-                    'produccion_leche')),
+                    'tratamiento', 'traslado', 'venta', 'compra', 'muerte')),
     fecha        DATE NOT NULL,           -- fecha del hecho, no del registro
     potrero_id   BIGINT REFERENCES potreros(id),
     datos        JSONB NOT NULL DEFAULT '{}',
@@ -90,6 +89,22 @@ CREATE TABLE eventos_animales (
 
 CREATE INDEX idx_eventos_finca_tipo_fecha ON eventos (finca_id, tipo, fecha);
 CREATE INDEX idx_eventos_animales_animal ON eventos_animales (animal_id);
+
+-- Producción de leche: una fila por vaca, día y ordeño (mañana / tarde).
+-- No va en el log de eventos: son decenas de miles de registros.
+CREATE TABLE produccion_leche (
+    id             BIGSERIAL PRIMARY KEY,
+    finca_id       BIGINT NOT NULL REFERENCES fincas(id),
+    animal_id      BIGINT NOT NULL REFERENCES animales(id),
+    fecha          DATE NOT NULL,
+    ordeno         TEXT NOT NULL CHECK (ordeno IN ('manana', 'tarde')),
+    litros         NUMERIC(5,1) NOT NULL CHECK (litros >= 0),
+    destino        TEXT NOT NULL DEFAULT 'tanque'
+                   CHECK (destino IN ('tanque', 'descarte', 'calostro')),
+    registrado_por BIGINT REFERENCES usuarios(id),
+    UNIQUE (animal_id, fecha, ordeno)
+);
+CREATE INDEX idx_produccion_fecha ON produccion_leche (fecha);
 
 -- Eventos válidos = confirmados y no anulados
 CREATE VIEW eventos_validos AS

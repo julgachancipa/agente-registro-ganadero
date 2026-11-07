@@ -1,0 +1,4 @@
+usuario_id,finca_id,rol
+1,1,dueno
+2,1,mayordomo
+3,1,vaquero

@@ -1,0 +1,124 @@
+id,finca_id,numero,nombre,sexo,raza,fecha_nacimiento,madre_id,padre_id,pajilla,origen,descripcion,creado_en
+1,1,901,Capitán,M,Holstein,2018-12-03,,,,nacido,,2018-12-03
+2,1,219,Aurora,H,Holstein,2020-07-09,,,,nacido,,2020-07-09
+3,1,112,Mora,H,Jersey,2021-06-30,,,,nacido,,2021-06-30
+4,1,227,Panda,H,Holstein,2015-08-24,,,,nacido,,2015-08-24
+5,1,249,Mireya,H,Holstein,2016-10-02,,,,nacido,,2016-10-02
+6,1,242,Pepita,H,Holstein,2020-06-05,,,,nacido,,2020-06-05
+7,1,198,Margot,H,Holstein,2017-08-27,,,,nacido,,2017-08-27
+8,1,169,Sultana,H,Jersey x Holstein,2018-10-12,,,,nacido,,2018-10-12
+9,1,154,Nube,H,Jersey x Holstein,2020-04-03,,,,nacido,,2020-04-03
+10,1,214,Mona,H,Normando,2016-12-08,,,,nacido,Normando color canela claro,2016-12-08
+11,1,243,Aurelia,H,Holstein,2019-12-28,,,,nacido,,2019-12-28
+12,1,241,Estrella,H,Holstein,2015-03-30,,,,nacido,Manchas negras grandes y cara blanca,2015-03-30
+13,1,139,Margarita,H,Normando,2016-11-08,,,,nacido,,2016-11-08
+14,1,236,Maruja,H,Normando,2021-04-29,,,,nacido,,2021-04-29
+15,1,217,Brisa,H,Holstein,2018-10-26,,,,nacido,,2018-10-26
+16,1,202,Rosalba,H,Holstein,2016-12-07,,,,nacido,,2016-12-07
+17,1,24,Canela,H,Jersey,2020-01-02,,,,nacido,Jersey pequeña de pelaje café,2020-01-02
+18,1,180,Lola,H,Holstein,2015-07-03,,,,nacido,,2015-07-03
+19,1,141,Soledad,H,Holstein,2021-07-10,,,,nacido,,2021-07-10
+20,1,245,Alondra,H,Jersey,2015-06-12,,,,nacido,,2015-06-12
+21,1,114,Pelusa,H,Holstein,2019-03-11,,,,nacido,,2019-03-11
+22,1,102,Tabaca,H,Normando,2021-06-18,,,,nacido,,2021-06-18
+23,1,108,Morena,H,Jersey,2020-03-04,,,,nacido,,2020-03-04
+24,1,192,Amapola,H,Holstein,2018-01-03,,,,nacido,,2018-01-03
+25,1,183,Perla,H,Jersey,2015-07-30,,,,nacido,,2015-07-30
+26,1,208,Coqueta,H,Holstein,2018-03-04,,,,nacido,,2018-03-04
+27,1,135,Golondrina,H,Holstein,2021-04-13,,,,nacido,,2021-04-13
+28,1,230,Zarina,H,Holstein,2016-09-14,,,,nacido,,2016-09-14
+29,1,118,Paloma,H,Holstein,2021-01-22,,,,nacido,Oreja derecha cortada,2021-01-22
+30,1,283,Nieve,H,Holstein,2023-10-18,,,,nacido,,2023-10-18
+31,1,289,Pantera,H,Holstein,2023-09-23,,,,nacido,,2023-09-23
+32,1,286,Trinidad,H,Holstein,2023-08-24,,,,nacido,,2023-08-24
+33,1,282,Fortuna,H,Normando,2022-10-23,,,,nacido,,2022-10-23
+34,1,276,Diamante,H,Holstein,2022-09-03,,,,nacido,,2022-09-03
+35,1,288,Estela,H,Holstein,2022-06-25,,,,nacido,,2022-06-25
+36,1,279,Topacio,H,Holstein,2022-04-26,,,,nacido,,2022-04-26
+37,1,284,Chispa,H,Holstein,2022-02-25,,,,nacido,,2022-02-25
+38,1,300,Peregrina,H,Normando,2023-12-04,13,,NOR-0330,nacido,,2023-12-04
+39,1,301,,H,Normando,2023-12-04,21,,JER-0101,nacido,,2023-12-04
+40,1,302,,M,Normando,2023-12-08,10,,NOR-0215,nacido,,2023-12-08
+41,1,303,,H,Normando,2023-12-10,24,,HOL-0877,nacido,,2023-12-10
+42,1,304,,M,Holstein,2023-12-17,11,1,,nacido,,2023-12-17
+43,1,305,,M,Holstein,2023-12-19,2,,NOR-0330,nacido,,2023-12-19
+44,1,306,,H,Holstein,2024-04-12,26,,JER-0101,nacido,,2024-04-12
+45,1,307,,H,Holstein,2024-04-17,8,,JER-0101,nacido,,2024-04-17
+46,1,308,,M,Holstein,2024-04-30,12,,HOL-0412,nacido,,2024-04-30
+47,1,309,Bonita,H,Jersey,2024-05-13,3,,JER-0144,nacido,,2024-05-13
+48,1,310,,M,Normando,2024-05-20,22,,HOL-1203,nacido,,2024-05-20
+49,1,311,Tola,H,Holstein,2024-05-24,29,,JER-0101,nacido,,2024-05-24
+50,1,312,,H,Jersey x Holstein,2024-05-30,9,,HOL-0877,nacido,,2024-05-30
+51,1,313,,M,Holstein,2024-06-12,18,,JER-0101,nacido,,2024-06-12
+52,1,314,,M,Normando,2024-06-18,14,,HOL-1203,nacido,,2024-06-18
+53,1,315,,M,Holstein,2024-07-03,4,,HOL-0877,nacido,,2024-07-03
+54,1,316,,H,Holstein,2024-07-12,27,,HOL-0412,nacido,,2024-07-12
+55,1,317,,H,Holstein,2024-07-23,6,,HOL-0877,nacido,,2024-07-23
+56,1,318,,M,Holstein,2024-08-12,16,,HOL-0877,nacido,,2024-08-12
+57,1,319,,H,Jersey,2024-08-13,17,,NOR-0215,nacido,,2024-08-13
+58,1,320,,M,Jersey,2024-08-13,23,,JER-0101,nacido,,2024-08-13
+59,1,321,Caramelo,H,Holstein,2024-08-20,7,1,,nacido,,2024-08-20
+60,1,322,,H,Holstein,2024-08-25,19,,HOL-0877,nacido,,2024-08-25
+61,1,512,Rosita,H,Holstein,2022-12-10,,,,comprado,,2022-12-10
+62,1,323,Esperanza,H,Holstein,2024-09-10,5,1,,nacido,,2024-09-10
+63,1,324,,M,Holstein,2024-09-17,36,1,,nacido,,2024-09-17
+64,1,325,,M,Jersey,2024-09-23,25,,HOL-0412,nacido,,2024-09-23
+65,1,326,Sabana,H,Holstein,2024-09-27,35,,HOL-0412,nacido,,2024-09-27
+66,1,327,,M,Holstein,2024-10-20,34,1,,nacido,,2024-10-20
+67,1,328,Clavel,H,Normando,2024-11-07,33,,NOR-0330,nacido,,2024-11-07
+68,1,329,,M,Normando,2024-11-14,10,,HOL-0877,nacido,,2024-11-14
+69,1,330,,M,Holstein,2024-11-30,37,,HOL-0877,nacido,,2024-11-30
+70,1,331,,M,Normando,2024-12-08,13,,HOL-1203,nacido,,2024-12-08
+71,1,332,,H,Holstein,2024-12-09,21,,HOL-0877,nacido,,2024-12-09
+72,1,333,,M,Holstein,2024-12-19,61,,,nacido,,2024-12-19
+73,1,334,,H,Holstein,2024-12-29,2,,NOR-0215,nacido,,2024-12-29
+74,1,335,Princesa,H,Holstein,2025-03-08,24,,HOL-0877,nacido,,2025-03-08
+75,1,336,,M,Holstein,2025-03-24,26,,HOL-0877,nacido,,2025-03-24
+76,1,337,,M,Normando,2025-05-02,22,,HOL-0877,nacido,,2025-05-02
+77,1,338,,H,Holstein,2025-05-03,12,,JER-0144,nacido,,2025-05-03
+78,1,339,Gaviota,H,Jersey x Holstein,2025-05-08,9,,NOR-0215,nacido,,2025-05-08
+79,1,340,,H,Jersey,2025-05-11,3,1,,nacido,,2025-05-11
+80,1,341,Cometa,H,Holstein,2025-05-19,29,,JER-0101,nacido,,2025-05-19
+81,1,342,,M,Jersey x Holstein,2025-06-20,27,,JER-0144,nacido,,2025-06-20
+82,1,343,,H,Holstein,2025-06-21,18,1,,nacido,,2025-06-21
+83,1,344,Vaquita,H,Normando,2025-07-07,14,1,,nacido,,2025-07-07
+84,1,345,Manchas,H,Holstein,2025-07-26,15,,HOL-0412,nacido,,2025-07-26
+85,1,346,,M,Holstein,2025-08-04,6,,HOL-0877,nacido,,2025-08-04
+86,1,347,,M,Holstein,2025-08-22,19,,NOR-0215,nacido,,2025-08-22
+87,1,348,,M,Normando,2025-08-29,5,,NOR-0330,nacido,,2025-08-29
+88,1,349,Orquídea,H,Jersey,2025-09-06,23,,HOL-0412,nacido,,2025-09-06
+89,1,350,Violeta,H,Jersey,2025-09-09,17,1,,nacido,,2025-09-09
+90,1,351,,M,Holstein,2025-09-09,36,,JER-0144,nacido,,2025-09-09
+91,1,352,,H,Jersey x Holstein,2025-09-14,4,1,,nacido,,2025-09-14
+92,1,353,,M,Holstein,2025-09-22,7,,JER-0101,nacido,,2025-09-22
+93,1,354,Capuchina,H,Holstein,2025-09-27,35,,JER-0144,nacido,,2025-09-27
+94,1,355,,M,Holstein,2025-10-02,32,1,,nacido,,2025-10-02
+95,1,356,,H,Holstein,2025-10-03,16,,JER-0144,nacido,,2025-10-03
+96,1,357,Lluvia,H,Jersey,2025-10-10,25,,JER-0144,nacido,,2025-10-10
+97,1,358,,M,Holstein,2025-11-04,31,,NOR-0215,nacido,,2025-11-04
+98,1,359,,M,Normando,2025-11-06,10,,JER-0144,nacido,,2025-11-06
+99,1,360,,H,Holstein,2025-11-06,34,,NOR-0330,nacido,,2025-11-06
+100,1,361,Carmela,H,Normando,2025-11-14,13,,JER-0101,nacido,,2025-11-14
+101,1,362,,M,Holstein,2025-12-05,30,1,,nacido,,2025-12-05
+102,1,363,,M,Holstein,2025-12-13,21,,HOL-0412,nacido,,2025-12-13
+103,1,364,,M,Holstein,2025-12-16,61,,HOL-0877,nacido,,2025-12-16
+104,1,365,,H,Holstein,2025-12-22,2,,NOR-0215,nacido,,2025-12-22
+105,1,366,,M,Normando,2026-02-06,38,1,,nacido,,2026-02-06
+106,1,367,Victoria,H,Holstein,2026-03-05,24,,JER-0144,nacido,,2026-03-05
+107,1,368,Luna,H,Holstein,2026-03-14,26,1,,nacido,,2026-03-14
+108,1,369,,H,Holstein,2026-04-21,12,1,,nacido,,2026-04-21
+109,1,370,,H,Jersey x Holstein,2026-05-16,9,,HOL-1203,nacido,,2026-05-16
+110,1,371,,M,Holstein,2026-05-22,29,,JER-0101,nacido,,2026-05-22
+111,1,372,,M,Holstein,2026-06-02,49,,HOL-0412,nacido,,2026-06-02
+112,1,373,Tulipana,H,Jersey,2026-06-05,22,1,,nacido,,2026-06-05
+113,1,374,,H,Jersey,2026-07-03,47,,NOR-0330,nacido,,2026-07-03
+114,1,375,,M,Normando,2026-07-10,14,1,,nacido,,2026-07-10
+115,1,376,Manzana,H,Holstein,2026-08-09,18,1,,nacido,,2026-08-09
+116,1,377,,M,Jersey,2026-08-18,17,,JER-0101,nacido,,2026-08-18
+117,1,378,,M,Holstein,2026-08-20,5,,JER-0101,nacido,,2026-08-20
+118,1,379,,M,Holstein,2026-08-26,23,1,,nacido,,2026-08-26
+119,1,380,,M,Normando,2026-09-14,4,,NOR-0215,nacido,,2026-09-14
+120,1,381,Mariposa,H,Holstein,2026-09-30,35,1,,nacido,,2026-09-30
+121,1,382,,M,Holstein,2026-10-03,59,,NOR-0330,nacido,,2026-10-03
+122,1,383,,H,Holstein,2026-10-20,16,,JER-0101,nacido,,2026-10-20
+123,1,384,,H,Normando,2026-10-22,10,,HOL-0412,nacido,,2026-10-22

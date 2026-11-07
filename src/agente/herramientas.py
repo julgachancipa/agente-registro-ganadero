@@ -119,8 +119,32 @@ HERRAMIENTAS = [
             "required": ["evento_id", "motivo"],
         },
     },
+    {
+        "name": "registrar_produccion_leche",
+        "description": (
+            "Registra los litros de uno o varios animales en un ordeño (mañana o tarde). "
+            "La leche de animales en retiro por tratamiento se marca como descarte, y la de "
+            "los primeros días tras el parto como calostro."
+        ),
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "fecha": FECHA,
+                "ordeno": {"type": "string", "enum": ["manana", "tarde"]},
+                "registros": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {"animal_id": ANIMAL, "litros": {"type": "number"}},
+                        "required": ["animal_id", "litros"],
+                    },
+                },
+            },
+            "required": ["fecha", "ordeno", "registros"],
+        },
+    },
     # TODO: registrar_secado, registrar_venta, registrar_compra, registrar_muerte,
-    #       registrar_produccion_leche, registrar_destete
+    #       registrar_destete
     # --- Lectura ---
     {
         "name": "estado_animal",
@@ -135,6 +159,33 @@ HERRAMIENTAS = [
     {
         "name": "inventario_por_categoria",
         "description": "Conteo de animales activos por categoría y sexo.",
+        "input_schema": {"type": "object", "properties": {}},
+    },
+    {
+        "name": "produccion_animal",
+        "description": "Litros de una vaca por día y por ordeño (mañana/tarde) en un rango de fechas.",
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "animal_id": ANIMAL,
+                "desde": FECHA,
+                "hasta": FECHA,
+            },
+            "required": ["animal_id", "desde", "hasta"],
+        },
+    },
+    {
+        "name": "produccion_finca",
+        "description": "Litros totales de la finca por día (y cuántos fueron al tanque) en un rango de fechas.",
+        "input_schema": {
+            "type": "object",
+            "properties": {"desde": FECHA, "hasta": FECHA},
+            "required": ["desde", "hasta"],
+        },
+    },
+    {
+        "name": "leche_en_retiro",
+        "description": "Animales cuya leche debe ir a descarte por tratamiento, con la fecha hasta la que dura el retiro.",
         "input_schema": {"type": "object", "properties": {}},
     },
     # TODO: listar_animales, proximas_a_parir, pendientes_vacuna, exportar

@@ -3,7 +3,8 @@
 ## Fase 0: Diseño
 - [x] Principios y flujo del agente
 - [x] Modelo de datos inicial
-- [ ] Definir enfoque: leche, carne o doble propósito
+- [x] Enfoque definido: finca **lechera** (dos ordeños al día; sin levante ni ceba de machos)
+- [x] Datos dummy de una finca lechera (3 años) en CSV + SQLite, ver [`datos-demo.md`](datos-demo.md)
 - [ ] Recolectar 100–200 mensajes/audios reales o realistas para evals
 
 ## Fase 1: Núcleo sin WhatsApp

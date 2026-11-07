@@ -27,4 +27,20 @@ Se implementa como vistas (o vista materializada si crece).
 
 ## Tipos de evento
 
-parto, servicio, palpacion, secado, destete, pesaje, tratamiento, traslado, venta, compra, muerte, produccion_leche, anulacion.
+parto, servicio, palpacion, secado, destete, pesaje, tratamiento, traslado, venta, compra, muerte.
+
+Las correcciones no son un tipo de evento: el evento errado queda en estado `anulado` (con `motivo_anulacion`) y `anulado_por` apunta al evento que lo corrige.
+
+## Producción de leche (tabla propia)
+
+La leche no se guarda como evento: son decenas de miles de registros (cada vaca, dos ordeños al día), así que va en `produccion_leche`, con **una fila por vaca, día y ordeño**:
+
+| Columna | Descripción |
+|---|---|
+| `animal_id`, `fecha` | Vaca y día |
+| `ordeno` | `manana` o `tarde` |
+| `litros` | Litros de ese ordeño |
+| `destino` | `tanque`, `descarte` (en retiro por antibiótico) o `calostro` (primeros días tras el parto) |
+| `registrado_por` | Usuario que reportó el ordeño |
+
+`UNIQUE (animal_id, fecha, ordeno)`: un segundo reporte del mismo ordeño reemplaza al anterior (con confirmación). El `destino` se decide en código a partir de los eventos (`tratamiento` con `retiro_leche_hasta`, fecha del último parto), no lo decide el modelo.

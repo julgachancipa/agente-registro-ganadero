@@ -52,3 +52,21 @@ def validar_pesaje(peso_kg: float, etapa: str) -> Resultado:
     if not (minimo <= peso_kg <= maximo):
         r.alertas.append(f"{peso_kg} kg está fuera del rango usual para {etapa} ({minimo}–{maximo} kg).")
     return r
+
+
+MAX_LITROS_POR_ORDENO = 30  # alerta, no error: hay vacas excepcionales
+
+
+def validar_produccion(animal, litros: float, ya_registrado: bool, en_lactancia: bool) -> Resultado:
+    r = Resultado()
+    if animal.sexo != "H":
+        r.errores.append(f"El animal {animal.numero} es macho.")
+    if litros < 0:
+        r.errores.append("Los litros no pueden ser negativos.")
+    if not en_lactancia:
+        r.alertas.append(f"{animal.numero} no figura en lactancia (seca o sin partos). ¿Es correcto?")
+    if litros > MAX_LITROS_POR_ORDENO:
+        r.alertas.append(f"{litros} L en un solo ordeño es muy alto para {animal.numero}. ¿Es correcto?")
+    if ya_registrado:
+        r.alertas.append(f"{animal.numero} ya tiene registro de ese ordeño; se reemplazaría.")
+    return r

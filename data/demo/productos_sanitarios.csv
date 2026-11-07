@@ -1,0 +1,5 @@
+id,nombre,principio_activo,dias_retiro_leche,dias_retiro_carne,fuente
+1,Vacuna aftosa (demo),,0,0,"DEMO: valor ficticio, no usar como referencia"
+2,Vacuna brucelosis (demo),,0,0,"DEMO: valor ficticio, no usar como referencia"
+3,Antibiótico intramamario (demo),ficticio,4,7,"DEMO: valor ficticio, no usar como referencia"
+4,Desparasitante (demo),ficticio,0,35,"DEMO: valor ficticio, no usar como referencia"
